@@ -1,5 +1,5 @@
 ---
-title: "Emergent Dirac fermions and broken symmetries in confined and deconfined phases of Z2 gauge?theories"
+title: "11. Emergent Dirac fermions and broken symmetries in confined and deconfined phases of Z2 gauge?theories"
 collection: publications
 permalink: /publication/2017-02-01-Emergent-Dirac-fermions-and-broken-symmetries-in-confined-and-deconfined-phases-of-Z2-gaugetheories
 date: 2017-02-01

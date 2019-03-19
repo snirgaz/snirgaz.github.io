@@ -1,5 +1,5 @@
 ---
-title: "Collective Modes in a Quantum Solid"
+title: "8. Collective Modes in a Quantum Solid"
 collection: publications
 permalink: /publication/2016-08-01-Collective-Modes-in-a-Quantum-Solid
 date: 2016-08-01

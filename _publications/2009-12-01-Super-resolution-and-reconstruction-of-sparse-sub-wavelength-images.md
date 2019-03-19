@@ -1,5 +1,5 @@
 ---
-title: "Super-resolution and reconstruction of sparse sub-wavelength images"
+title: "1. Super-resolution and reconstruction of sparse sub-wavelength images"
 collection: publications
 permalink: /publication/2009-12-01-Super-resolution-and-reconstruction-of-sparse-sub-wavelength-images
 date: 2009-12-01

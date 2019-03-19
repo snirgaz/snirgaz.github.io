@@ -1,5 +1,5 @@
 ---
-title: "Sparsity-based single-shot subwavelength coherent diffractive imaging"
+title: "3. Sparsity-based single-shot subwavelength coherent diffractive imaging"
 collection: publications
 permalink: /publication/2012-04-01-Sparsity-based-single-shot-subwavelength-coherent-diffractive-imaging
 date: 2012-04-01
