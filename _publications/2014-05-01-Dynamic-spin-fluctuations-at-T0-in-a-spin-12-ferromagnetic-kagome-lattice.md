@@ -1,5 +1,5 @@
 ---
-title: "7. Dynamic spin fluctuations at T0 in a spin-12 ferromagnetic kagome lattice"
+title: "7 -- Dynamic spin fluctuations at T0 in a spin-12 ferromagnetic kagome lattice"
 collection: publications
 permalink: /publication/2014-05-01-Dynamic-spin-fluctuations-at-T0-in-a-spin-12-ferromagnetic-kagome-lattice
 date: 2014-05-01

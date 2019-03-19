@@ -1,5 +1,5 @@
 ---
-title: "12. Dynamical Response near Quantum Critical Points"
+title: "12 -- Dynamical Response near Quantum Critical Points"
 collection: publications
 permalink: /publication/2017-02-01-Dynamical-Response-near-Quantum-Critical-Points
 date: 2017-02-01

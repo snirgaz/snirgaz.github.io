@@ -1,5 +1,5 @@
 ---
-title: "16. Improving techniques for diagnostics of laser pulses by compact representations"
+title: "16 -- Improving techniques for diagnostics of laser pulses by compact representations"
 collection: publications
 permalink: /publication/2019-03-01-Improving-techniques-for-diagnostics-of-laser-pulses-by-compact-representations
 date: 2019-03-01

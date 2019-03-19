@@ -1,5 +1,5 @@
 ---
-title: "4. Fate of the Higgs Mode Near Quantum Criticality"
+title: "4 -- Fate of the Higgs Mode Near Quantum Criticality"
 collection: publications
 permalink: /publication/2013-04-01-Fate-of-the-Higgs-Mode-Near-Quantum-Criticality
 date: 2013-04-01
