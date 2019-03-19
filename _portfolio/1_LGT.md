@@ -1,6 +1,6 @@
 ---
-title: "Lattice gauge theories in  "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/z2_phase_diag.jpg'>"
+title: "Lattice gauge theories in condensed matter theory"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/z2_phase_diag.png'>"
 collection: portfolio
 ---
 
