@@ -1,5 +1,5 @@
 ---
-title: "6 -- Critical Capacitance and Charge-Vortex Duality Near the Superfluid-to-Insulator Transition"
+title: "Critical Capacitance and Charge-Vortex Duality Near the Superfluid-to-Insulator Transition"
 collection: publications
 permalink: /publication/2014-12-01-Critical-Capacitance-and-Charge-Vortex-Duality-Near-the-Superfluid-to-Insulator-Transition
 date: 2014-12-01

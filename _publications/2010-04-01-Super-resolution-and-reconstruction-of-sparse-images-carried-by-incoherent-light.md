@@ -1,5 +1,5 @@
 ---
-title: "2 -- Super-resolution and reconstruction of sparse images carried by incoherent light"
+title: "Super-resolution and reconstruction of sparse images carried by incoherent light"
 collection: publications
 permalink: /publication/2010-04-01-Super-resolution-and-reconstruction-of-sparse-images-carried-by-incoherent-light
 date: 2010-04-01

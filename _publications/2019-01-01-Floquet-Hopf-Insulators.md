@@ -1,5 +1,5 @@
 ---
-title: "15 -- Floquet Hopf Insulators"
+title: "Floquet Hopf Insulators"
 collection: publications
 permalink: /publication/2019-01-01-Floquet-Hopf-Insulators
 date: 2019-01-01

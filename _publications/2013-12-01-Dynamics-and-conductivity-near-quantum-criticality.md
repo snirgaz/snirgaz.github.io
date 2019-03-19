@@ -1,5 +1,5 @@
 ---
-title: "5 -- Dynamics and conductivity near quantum criticality"
+title: "Dynamics and conductivity near quantum criticality"
 collection: publications
 permalink: /publication/2013-12-01-Dynamics-and-conductivity-near-quantum-criticality
 date: 2013-12-01

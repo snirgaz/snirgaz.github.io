@@ -1,5 +1,5 @@
 ---
-title: "13 -- Confinement transition of ℤ2 gauge theories coupled to massless fermions: Emergent quantum chromodynamics and SO(5) symmetry"
+title: "Confinement transition of ℤ2 gauge theories coupled to massless fermions: Emergent quantum chromodynamics and SO(5) symmetry"
 collection: publications
 permalink: /publication/2018-01-01-Confinement-transition-of-2-gauge-theories-coupled-to-massless-fermions-Emergent-quantum-chromodynamics-and-SO5-symmetry
 date: 2018-01-01

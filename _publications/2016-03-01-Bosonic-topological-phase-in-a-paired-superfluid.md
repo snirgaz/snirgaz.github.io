@@ -1,5 +1,5 @@
 ---
-title: "9 -- Bosonic topological phase in a paired superfluid"
+title: "Bosonic topological phase in a paired superfluid"
 collection: publications
 permalink: /publication/2016-03-01-Bosonic-topological-phase-in-a-paired-superfluid
 date: 2016-03-01

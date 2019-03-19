@@ -1,5 +1,5 @@
 ---
-title: "10 -- Spin transport of weakly disordered Heisenberg chain at infinite temperature"
+title: "Spin transport of weakly disordered Heisenberg chain at infinite temperature"
 collection: publications
 permalink: /publication/2016-06-01-Spin-transport-of-weakly-disordered-Heisenberg-chain-at-infinite-temperature
 date: 2016-06-01
