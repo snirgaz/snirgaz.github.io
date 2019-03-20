@@ -29,8 +29,8 @@ yet fundamental example of topology in quantum systems, to periodically driven s
 We have demonstrated that in the out of equilibrium setting, energy, rather than charge, may
 undergo quantized pumping. In particular, the energy transported per cycle is quantized in
 units of the drive frequency leading to the absorption of precisely a single photon.
-In a different study, we have shown the restricting the dynamics to a two band system can give rise to a novel topooligcal invariant that is a generalization of the static Hopf insulator.
-
+In a different study, predict the existence of a novel Floquet topological insulator in three-dimensional two-band systems, the Floquet Hopf insulator.
+The associated Floquet dynamics is classified by an intrinsically Floquet ℤ$_2$ invariant representing a condensed matter realization of the topology underlying the Witten anomaly in particle physics.
 ___
 
 ## Universal dynamics near quantum criticality
