@@ -9,7 +9,7 @@ author_profile: true
 
 ## Lattice Gauge theories at finite fermion density
 ![](/images/phase_diag_Page_1.jpg){: style="width: 350px; float: right; border: 10px"}
-attice gauge theories are ubiquitous in physics, describing a wide range of phenomena from quark confinement in high energy physics to the low energy effective theories of exotic quantum materials such as spin liquids and doped Mott insulators. At finite fermion density, lattice gauge theories are notoriously difficult to analyze due to the fermion sign problem, which renders quantum Monte Carlo simulations uncontrolled with a statistical noise that overwhelms the data.
+Lattice gauge theories are ubiquitous in physics, describing a wide range of phenomena from quark confinement in high energy physics to the low energy effective theories of exotic quantum materials such as spin liquids and doped Mott insulators. At finite fermion density, lattice gauge theories are notoriously difficult to analyze due to the fermion sign problem, which renders quantum Monte Carlo simulations uncontrolled with a statistical noise that overwhelms the data.
 
 In a recent work, we have made substantial progress in the solution of the numerical sign-problem for the Ising gauge theory [S. Gazit et al. Nature Physics (2017)], a model of great interest in condensed matter physics and a paradigmatic example of topological order. Circumventing the sign-problem allowed us to elucidate the phase diagram at arbitrary fermion density in a numerically unbiased manner.
 
