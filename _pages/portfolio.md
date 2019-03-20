@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Lattice Gauge theories at finite fermion density
+## Lattice gauge theories at finite fermion density
 ![](/images/phase_diag_Page_1.jpg){: style="width: 350px; float: right; border: 10px"}
 Lattice gauge theories are ubiquitous in physics, describing a wide range of phenomena from quark confinement in high energy physics to the low energy effective theories of exotic quantum materials such as spin liquids and doped Mott insulators. At finite fermion density, lattice gauge theories are notoriously difficult to analyze due to the fermion sign problem, which renders quantum Monte Carlo simulations uncontrolled with a statistical noise that overwhelms the data.
 
