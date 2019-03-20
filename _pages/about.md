@@ -15,6 +15,6 @@ The exponential scaling of quantum many-body problems poses a challenging comput
 in devising new numerical methodologies such as quantum Monte Carlo and tensor network based techniques that push this boundary and applying them in
 various strongly correlated quantum systems in pursuit of the discovery of novel quantum phenomena.
 
-<div style="text-align:center"><font size="8"> <b> We are hiring!</b></font></div>
+<div style="text-align:center"><font size="6"> <b> We are hiring!</b></font></div>
 <br/>
 Positions for excellent candidates are available at all levels (postdoc, graduate and undergraduate students). In case that you are interested, please feel free to contact me via email.
