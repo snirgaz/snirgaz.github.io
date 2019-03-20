@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Technion, 2008
-* B.S. in Electrical Engineering, Technion, 2008
-* Ph.D in Physics, Technion, 2014
+* B.Sc. in Physics, Technion, 2008
+* B.Sc. in Electrical Engineering, Technion, 2008
+* Ph.D. in Physics, Technion, 2014
   * Advisors: Prof. Assa Auerbach and Prof. Daniel Podolsky
 
 Work experience
