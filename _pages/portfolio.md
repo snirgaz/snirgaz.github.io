@@ -30,7 +30,7 @@ We have demonstrated that in the out of equilibrium setting, energy, rather than
 undergo quantized pumping. In particular, the energy transported per cycle is quantized in
 units of the drive frequency leading to the absorption of precisely a single photon.
 In a different study, predict the existence of a novel Floquet topological insulator in three-dimensional two-band systems, the Floquet Hopf insulator.
-The associated Floquet dynamics is classified by an intrinsically Floquet ℤ$_2$ invariant representing a condensed matter realization of the topology underlying the Witten anomaly in particle physics.
+The associated Floquet dynamics is classified by an intrinsically Floquet Z<sub>2</sub> invariant representing a condensed matter realization of the topology underlying the Witten anomaly in particle physics.
 ___
 
 ## Universal dynamics near quantum criticality
