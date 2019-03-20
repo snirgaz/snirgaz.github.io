@@ -24,7 +24,7 @@ Work experience
   * Mentors: Prof. Joel Moore and Prof. Ashvin Vishwanath
 
 * 2018-: Assistant Professor
-  * Racah Institute of Physics at The Hebrew university of Jerusalem
+  * Racah Institute of Physics at The Hebrew University of Jerusalem
 
 <!-- Publications
 ======
