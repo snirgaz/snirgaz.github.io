@@ -14,17 +14,17 @@ Education
 * B.S. in Physics, Technion, 2008
 * B.S. in Electrical Engineering, Technion, 2008
 * Ph.D in Physics, Technion, 2014
+  * Advisors: Prof. Assa Auerbach and Prof. Daniel Podolsky
 
 Work experience
 ======
 * 2014-2018: Postdoc
   * University of California at Berkeley
   * Condensed matter theory group
-  * Supervisors: Prof. Joel Moore and Prof. Ashvin Vishwanath
+  * Mentors: Prof. Joel Moore and Prof. Ashvin Vishwanath
 
-* 2018-: Assitant Professor
-  * The Hebrew university of Jerusalem
-  * Racah Institute for Physics and The Fritz Haber Center for Molecular Dynamics
+* 2018-: Assistant Professor
+  * Racah Institute of Physics at The Hebrew university of Jerusalem
 
 <!-- Publications
 ======
@@ -44,6 +44,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Service and leadership
+<!-- Service and leadership
 ======
-* Building of the Racah institute CMT group computer cluster
+* Building of the Racah institute CMT group computer cluster -->
