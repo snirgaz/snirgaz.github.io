@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "Research"
+ - title: "Research"
     url: /portfolio/
 
-  - title: "Publications"
+- title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
+- title: "Teaching"
     url: /teaching/
-
-# - title: "People"
-#   url: /people/
 
 - title: "CV"
     url: /cv/
