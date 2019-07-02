@@ -38,7 +38,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
- (./mybib.bbl) (./mybib.aux) ) 
+ (./mybib.bbl) (./mybib.aux) )
 Here is how much of TeX's memory you used:
  202 strings out of 494091
  2175 string characters out of 6163524
@@ -53,4 +53,3 @@ PDF statistics:
  0 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
