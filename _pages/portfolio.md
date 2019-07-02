@@ -20,7 +20,7 @@ ___
 ## Topological phases in periodically driven systems
 
 ![](/images/FH.jpg){: style="width: 350px; float: right; border: 10px"}
-In recent years, the classification of topological phases of matter has been extended to periodically driven (Floquet) systems
+In recent years, theclassification of topological phases of matter has been extended to periodically driven (Floquet) systems
 far from equilibrium. Some of the predicted phenomena go beyond what is realizable by
 static Hamiltonians, including chiral edge states belonging to quasi-energy bulk bands with
 a vanishing Chern number and topologically protected transport of quantum information.

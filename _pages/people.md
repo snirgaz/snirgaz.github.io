@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Research"
+#title: "People"
 permalink: /people/
 author_profile: true
 ---
