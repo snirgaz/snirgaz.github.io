@@ -18,3 +18,10 @@ various strongly correlated quantum systems in the pursuit of discovering novel 
 <div style="text-align:center"><font size="6"> <b> We are hiring!</b></font></div>
 <br/>
 Positions for outstanding candidates are available at all levels (postdoc, graduate and undergraduate students). In case that you are interested, please feel free to contact me via email.
+
+<div style="text-align:center"><font size="6"> <b> News</b></font></div>
+<br/>
+
+** 26 - June - 2019 ** PI Snir Gazit was awarded the Alon fellowship.
+** 26 - June - 2019 ** New paper on [``Fermi surface reconstruction without symmetry breaking"](https://arxiv.org/abs/1906.11250) was posted on ArXiv.
+** 25 - June - 2019 ** BSF grant start-up grant was awarded together with Prof. Jed Pixley from Rutgers University.
