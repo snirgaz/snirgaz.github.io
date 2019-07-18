@@ -22,8 +22,8 @@ Positions for outstanding candidates are available at all levels (postdoc, gradu
 <div style="text-align:center"><font size="6"> <b> News</b></font></div>
 <br/>
 
-** 26 - June - 2019 ** PI Snir Gazit was awarded the Alon fellowship.
+**10 - July - 2019** PI Snir Gazit was awarded the Alon fellowship.
 
-** 26 - June - 2019 ** New paper on [``Fermi surface reconstruction without symmetry breaking"](https://arxiv.org/abs/1906.11250) was posted on ArXiv.
+**26 - June - 2019** New paper on [``Fermi surface reconstruction without symmetry breaking"](https://arxiv.org/abs/1906.11250) was posted on ArXiv.
 
-** 25 - June - 2019 ** BSF grant start-up grant was awarded together with Prof. Jed Pixley from Rutgers University.
+**25 - June - 2019** BSF grant start-up grant was awarded together with Prof. Jed Pixley from Rutgers University.
