@@ -24,4 +24,4 @@ various strongly correlated quantum systems in the pursuit of discovering novel 
 
 **26 - June - 2019** - New paper on ["Fermi surface reconstruction without symmetry breaking"](https://arxiv.org/abs/1906.11250) was posted on ArXiv.
 
-**25 - June - 2019** - BSF start-up grant was awarded together with Prof. Jed Pixley from Rutgers University.
+**25 - June - 2019** - BSF start-up grant was awarded together with Prof. [Jed](http://cgisvr.physics.rutgers.edu/cgi-bin/physdb/genpip.pl?PixleyJ) Pixley from Rutgers University.
