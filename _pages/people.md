@@ -11,7 +11,4 @@ author_profile: true
 
 1. M.Sc. Michal Zimmerman - Joint with Ronen Rapaport
 2. M.Sc. Eran Bernstein - Joint with Ronen Rapaport and Hadar Steinberg
-
-## Undergraduate Students
-
-1. David Ponarovsky
+3. M.Sc. Gal Schkolnik
