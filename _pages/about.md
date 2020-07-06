@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a condensed matter theorist. My primary research interests lie in strongly correlated quantum systems, where strong inter-particle interactions together with the fundamental laws of quantum mechanics give rise to emergent phases of matter. Notable examples are supercoductors, which conduct electrical current without dissipation and spin-liquids that defy freezing even at absolute zero temperature, among others. These exotic quantum states are expected to serve as the basic building blocks of future quantum based technologies.
+I am a condensed matter theorist. My primary research interests lie in strongly correlated quantum systems, where strong inter-particle interactions, together with the fundamental laws of quantum mechanics, give rise to emergent phases of matter. Notable examples are superconductors, which conduct electrical current without dissipation and spin-liquids that defy freezing even at absolute zero temperature, among others. These exotic quantum states are expected to serve as the basic building blocks of future quantum based technologies.
 
 The exponential scaling of quantum many-body problems poses a challenging computational task and making progress must rely on a profound understanding of the physical problem. Obstructions to simulating quantum systems using a classical computer with finite resources draw the line between the quantum and classical world. I am very actively involved
 in devising new numerical methodologies such as quantum Monte Carlo and tensor network based techniques that push this boundary and applying them in
