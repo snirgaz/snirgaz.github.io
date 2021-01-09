@@ -20,6 +20,14 @@ various strongly correlated quantum systems in the pursuit of discovering novel 
 <div style="text-align:center"><font size="6"> <b> News</b></font></div>
 <br/>
 
+**1 - January - 2021** - Michal Zimmerman passed her MSc exam and will start her PhD in a direct path!
+
+**1 - October - 2020** - Ayush De joined group strating his MSc studies!
+
+**1 - March - 2020** - Elyasaf Cohen joined group strating his MSc studies!
+
+**1 - October - 2019** - Gal Shkolnik joined group strating his MSc studies!
+
 **10 - July - 2019** - PI Snir Gazit was awarded the Alon fellowship.
 
 **25 - June - 2019** - BSF start-up grant was awarded together with Prof. [Jed Pixley](http://cgisvr.physics.rutgers.edu/cgi-bin/physdb/genpip.pl?PixleyJ)  from Rutgers University.

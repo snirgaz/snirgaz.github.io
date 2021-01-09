@@ -9,8 +9,9 @@ author_profile: true
 
 ## Graduate Students
 
-1. P.h.D. Michal Zimmerman - michal.zimmerman@mail.huji.ac.il ![](michal.png)
-
-3. M.Sc. Gal Schkolnik
+1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) 
+![](../images/michal.png)
+2. M.Sc. Gal Shkolnik (gal.shkolnik@mail.huji.ac.il) 
+![](../images/gal.png)
 3. M.Sc. Elyasaf Cohen
-3. M.Sc. Ayush De
+4. M.Sc. Ayush De
