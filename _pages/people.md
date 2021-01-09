@@ -11,7 +11,7 @@ author_profile: true
 
 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) 
 
-<img src="/images/michal.jpg" alt="drawing" width="200"/>
+<img src="/images/Michal.jpg" alt="drawing" width="200"/>
 
 2. M.Sc. Gal Shkolnik (gal.shkolnik@mail.huji.ac.il) 
 
