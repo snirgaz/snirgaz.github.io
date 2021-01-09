@@ -20,3 +20,6 @@ author_profile: true
 3. M.Sc. Elyasaf Cohen
 
 4. M.Sc. Ayush De
+
+    <img src="/images/ayush.jpeg" alt="drawing" width="200"/>
+
