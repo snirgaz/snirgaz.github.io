@@ -11,11 +11,12 @@ author_profile: true
 
 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) 
 
-<img src="/images/Michal.jpg" alt="drawing" width="200"/>
+    <img src="/images/Michal.jpg" alt="drawing" width="200"/>
 
 2. M.Sc. Gal Shkolnik (gal.shkolnik@mail.huji.ac.il) 
 
-<img src="/images/gal.jpg" alt="drawing" width="200"/>
+    <img src="/images/gal.jpg" alt="drawing" width="200"/>
 
 3. M.Sc. Elyasaf Cohen
+
 4. M.Sc. Ayush De
