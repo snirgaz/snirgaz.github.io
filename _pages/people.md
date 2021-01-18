@@ -17,11 +17,11 @@ author_profile: true
 
     <img src="/images/gal.jpg" alt="drawing" width="200"/>
 
-3. M.Sc. Elyasaf Cohen
+3. M.Sc. Elyasaf Cohen (elyasaf.cohen1@mail.huji.ac.il)
 
      <img src="/images/elyasaf.png" alt="drawing" width="200"/>
 
-4. M.Sc. Ayush De
+4. M.Sc. Ayush De (ayush.de@mail.huji.ac.il )
 
     <img src="/images/ayush.jpeg" alt="drawing" width="200"/>
 
