@@ -20,6 +20,8 @@ various strongly correlated quantum systems in the pursuit of discovering novel 
 <div style="text-align:center"><font size="6"> <b> News</b></font></div>
 <br/>
 
+**1 - February - 2021** - Michal Zimmerman was awarded The Maria Proner-Pogonowska Scholarship for Women in Science!
+
 **1 - January - 2021** - Michal Zimmerman passed her MSc exam and will start her PhD in a direct path!
 
 **1 - October - 2020** - Ayush De joined our group strating his MSc studies!
