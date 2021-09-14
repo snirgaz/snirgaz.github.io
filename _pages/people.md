@@ -25,3 +25,7 @@ author_profile: true
 
     <img src="/images/ayush.jpeg" alt="drawing" width="200"/>
 
+4. M.Sc. Aviv Barnea (aviv.barnea606@gmail.com)
+
+    <img src="/images/Aviv.jpeg" alt="drawing" width="200"/>
+
