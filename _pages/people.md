@@ -13,11 +13,11 @@ author_profile: true
 
     <img src="/images/Michal.jpg" alt="drawing" width="200"/>
 
-2. M.Sc. Gal Shkolnik (gal.shkolnik@mail.huji.ac.il) 
+2. Ph.D. Gal Shkolnik (gal.shkolnik@mail.huji.ac.il) 
 
     <img src="/images/gal.jpg" alt="drawing" width="200"/>
 
-3. M.Sc. Elyasaf Cohen (elyasaf.cohen1@mail.huji.ac.il)
+3. Ph.D. Elyasaf Cohen (elyasaf.cohen1@mail.huji.ac.il)
 
      <img src="/images/elyasaf.png" alt="drawing" width="200"/>
 
