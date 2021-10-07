@@ -20,11 +20,11 @@ various strongly correlated quantum systems in the pursuit of discovering novel 
 <div style="text-align:center"><font size="6"> <b> News</b></font></div>
 <br/>
 
-**1 - September - 2021** - Elyasaf Cohen passed his MSc exam and will start her PhD in a direct path!
+**1 - September - 2021** - Elyasaf Cohen passed his MSc exam and will start his PhD in a direct path!
 
-**1 - September - 2021** - GAL Shkolnik passed his MSc exam and will start her PhD in a direct path!
+**1 - September - 2021** - GAL Shkolnik passed his MSc exam and will start his PhD in a direct path!
 
-**1 - July - 2021** - Aviv Barnea joined our  group strating his MSc studies!
+**1 - July - 2021** - Aviv Barnea joined our group strating his MSc studies!
 
 **1 - May - 2021** - Michal Zimmerman was awarded The Dalia and Dan Maydan fellowship!
 
