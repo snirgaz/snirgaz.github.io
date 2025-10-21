@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Custom Numeric Year-Only (Reverse Chronological, Cleaned)</title>
+    <id>http://www.zotero.org/styles/custom-numeric-year-only-reverse-chrono</id>
+    <link href="http://www.zotero.org/styles/custom-numeric-year-only-reverse-chrono" rel="self"/>
+    <author>
+      <name>AI Assistant</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="generic-base"/>
+    <summary>A numeric style sorted by date (most recent first) with year only displayed, and clean punctuation.</summary>
+    <updated>2025-10-21T11:45:00+00:00</updated>
+  </info>
+  <citation>
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush" default-locale="en-US">
+    
+    <sort>
+      <key variable="issued" sort="descending"/> 
+      <key variable="author"/> 
+      <key variable="title"/>
+    </sort>
+
+    <layout> 
+      <group delimiter=" ">
+        <text variable="citation-number" prefix="[" suffix="]"/>
+        <names variable="author" suffix=".">
+          <name sort-separator=", " initialize-with="." delimiter=", " and="text"/>
+          <label form="short" prefix=", "/>
+          <et-al font-style="italic"/>
+        </names>
+        <group delimiter=" " suffix=". ">
+          <text variable="title" quotes="true"/>
+          <names variable="editor" prefix="In: " suffix=".">
+            <name delimiter=", " and="text" sort-separator=", " initialize-with="."/>
+            <label form="short" prefix=" (" suffix=")"/>
+          </names>
+        </group>
+        <group delimiter=", ">
+          <text variable="container-title" font-style="italic"/>
+          <text variable="volume" prefix="vol. "/>
+          <text variable="issue" prefix="no. "/>
+          <text variable="page" prefix="pp. "/>
+        </group>
+        
+        <group delimiter=" " suffix="."> 
+            <date variable="issued" prefix="(" suffix=")">
+                <date-part name="year"/>
+            </date>
+        </group>
+        </group>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,10 @@
+\documentclass{article}
+\usepackage{amssymb}
+% 1. Load biblatex with the option to only show the year
+\usepackage[backend=biber, style=numeric, date=year]{biblatex}
+% 2. Link your .bib file
+\addbibresource{my_pub.bib}
+\begin{document}
+	\nocite{*} % Includes all entries from the .bib file
+\printbibliography
+\end{document}

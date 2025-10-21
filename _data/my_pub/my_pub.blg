@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'my_pub.blg'
+[54] biber-darwin:322> INFO - === Mon Oct 20, 2025, 13:56:58
+[65] Biber.pm:415> INFO - Reading 'my_pub.bcf'
+[122] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[132] Biber.pm:4256> INFO - Processing section 0
+[133] Utils.pm:75> INFO - Globbing data source 'my_pub.bib'
+[133] Utils.pm:91> INFO - Globbed data source 'my_pub.bib' to my_pub.bib
+[140] Biber.pm:4455> INFO - Looking for bibtex format file 'my_pub.bib' for section 0
+[143] bibtex.pm:1653> INFO - LaTeX decoding ...
+[245] bibtex.pm:1471> INFO - Found BibTeX data source 'my_pub.bib'
+[621] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[622] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[622] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[622] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[662] bbl.pm:652> INFO - Writing 'my_pub.bbl' with encoding 'UTF-8'
+[695] bbl.pm:755> INFO - Output to my_pub.bbl

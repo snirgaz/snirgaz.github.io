@@ -23,7 +23,10 @@ Work experience
   * Condensed matter theory group
   * Mentors: Prof. Joel Moore and Prof. Ashvin Vishwanath
 
-* 2018-: Assistant Professor
+* 2018-2023: Assistant Professor
+  * Racah Institute of Physics at The Hebrew University of Jerusalem
+
+* 2023-: Associate Professor
   * Racah Institute of Physics at The Hebrew University of Jerusalem
 
 <!-- Publications

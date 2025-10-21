@@ -1,0 +1,2915 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{2025arXiv250715938B}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e6677dcd7c6824032047f4a3ca40a73b}{%
+           family={{Belgaonkar}},
+           familyi={B\bibinitperiod},
+           given={Pradyumna\bibnamedelima P.},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=cec5c57030ee9356140860c16a0196b6}{%
+           family={{Zimmerman}},
+           familyi={Z\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7d56600d925ca224f961b716011e338f}{%
+           family={{Orgad}},
+           familyi={O\bibinitperiod},
+           given={Dror},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{537e9974bad714f7f0588dc3fef00aa4}
+      \strng{fullhash}{d475f545dd34c26e128f6cf4a6eac159}
+      \strng{bibnamehash}{537e9974bad714f7f0588dc3fef00aa4}
+      \strng{authorbibnamehash}{537e9974bad714f7f0588dc3fef00aa4}
+      \strng{authornamehash}{537e9974bad714f7f0588dc3fef00aa4}
+      \strng{authorfullhash}{d475f545dd34c26e128f6cf4a6eac159}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2507.15938}
+      \field{eprintclass}{cond-mat.mes-hall}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{7}
+      \field{title}{{Trimer superfluidity of antiparallel dipolar excitons in a bilayer heterostructure}}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{arXiv:2507.15938}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2507.15938
+      \endverb
+      \verb{eprint}
+      \verb 2507.15938
+      \endverb
+      \keyw{Mesoscale and Nanoscale Physics,Quantum Gases,Strongly Correlated Electrons}
+    \endentry
+    \entry{2024PhRvB.109c5117B}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b686cc850b87e8ebe09eca5f2282ce61}{%
+           family={{Bhattacharyya}},
+           familyi={B\bibinitperiod},
+           given={Sauri},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a06f1c832053072f0256d1eeba9350ee}{%
+           family={{De}},
+           familyi={D\bibinitperiod},
+           given={Ayush},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6512d9cd36f4ab090012cf8e6976468b}{%
+           family={{Auerbach}},
+           familyi={A\bibinitperiod},
+           given={Assa},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{90958694b06f34bba0f2edeb0a0ce6e8}
+      \strng{fullhash}{b477d3caabe08a739922e36e1bcc3183}
+      \strng{bibnamehash}{90958694b06f34bba0f2edeb0a0ce6e8}
+      \strng{authorbibnamehash}{90958694b06f34bba0f2edeb0a0ce6e8}
+      \strng{authornamehash}{90958694b06f34bba0f2edeb0a0ce6e8}
+      \strng{authorfullhash}{b477d3caabe08a739922e36e1bcc3183}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{035117}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{1}
+      \field{number}{3}
+      \field{title}{{Metallic transport of hard-core bosons}}
+      \field{volume}{109}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{035117}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.109.035117
+      \endverb
+      \verb{eprint}
+      \verb 2309.14479
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Quantum Gases,Condensed Matter - Superconductivity}
+    \endentry
+    \entry{2021PhRvB.103s5122B}{article}{}
+      \name{author}{7}{}{%
+        {{hash=718be7e52193beac2fd0219d024d5520}{%
+           family={{Block}},
+           familyi={B\bibinitperiod},
+           given={Maxwell},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1c9cb9c61e0fa36ef131633eebdf1769}{%
+           family={{Motruk}},
+           familyi={M\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=131232ddc3570a824149c27c960f2ca5}{%
+           family={{Zaletel}},
+           familyi={Z\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=048e492e5e2dd2d09aa702ef2be07257}{%
+           family={{Landau}},
+           familyi={L\bibinitperiod},
+           given={Zeph},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=64b47afeffedcc077d514b035c0d652e}{%
+           family={{Vazirani}},
+           familyi={V\bibinitperiod},
+           given={Umesh},
+           giveni={U\bibinitperiod}}}%
+        {{hash=7cd626b291b1591383af185597568b20}{%
+           family={{Yao}},
+           familyi={Y\bibinitperiod},
+           given={Norman\bibnamedelima Y.},
+           giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0b7d12325695876c59c96e8ecdb6ef8}
+      \strng{fullhash}{e444e53b27af96a026b4fcd84e36b67e}
+      \strng{bibnamehash}{b0b7d12325695876c59c96e8ecdb6ef8}
+      \strng{authorbibnamehash}{b0b7d12325695876c59c96e8ecdb6ef8}
+      \strng{authornamehash}{b0b7d12325695876c59c96e8ecdb6ef8}
+      \strng{authorfullhash}{e444e53b27af96a026b4fcd84e36b67e}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{195122}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{5}
+      \field{number}{19}
+      \field{title}{{Performance of the rigorous renormalization group for first-order phase transitions and topological phases}}
+      \field{volume}{103}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{195122}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.103.195122
+      \endverb
+      \verb{eprint}
+      \verb 2010.15851
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Statistical Mechanics,Quantum Physics}
+    \endentry
+    \entry{2020PhRvL.124g3601B}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2564735c1c9e5bfa3160dcecfdf745c3}{%
+           family={{Bohrdt}},
+           familyi={B\bibinitperiod},
+           given={Annabelle},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e88564c8b0c79feda2c4457fa56b9023}{%
+           family={{Omran}},
+           familyi={O\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=643c556d156225bdad6e50ef100dd939}{%
+           family={{Demler}},
+           familyi={D\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9403ee107f56b2ae28e7e7d3c5257e1b}{%
+           family={{Grusdt}},
+           familyi={G\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d85cce64e3f661b1c3960dedfa56c8cc}
+      \strng{fullhash}{97a3a82ea7de7fd2d26a982c6dda8324}
+      \strng{bibnamehash}{d85cce64e3f661b1c3960dedfa56c8cc}
+      \strng{authorbibnamehash}{d85cce64e3f661b1c3960dedfa56c8cc}
+      \strng{authornamehash}{d85cce64e3f661b1c3960dedfa56c8cc}
+      \strng{authorfullhash}{97a3a82ea7de7fd2d26a982c6dda8324}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{073601}
+      \field{eprintclass}{cond-mat.quant-gas}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{2}
+      \field{number}{7}
+      \field{title}{{Multiparticle Interactions for Ultracold Atoms in Optical Tweezers: Cyclic Ring-Exchange Terms}}
+      \field{volume}{124}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{073601}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.124.073601
+      \endverb
+      \verb{eprint}
+      \verb 1910.00023
+      \endverb
+      \keyw{Condensed Matter - Quantum Gases,Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2025arXiv250716523B}{article}{}
+      \name{author}{3}{}{%
+        {{hash=86a8b9271078894947cfc5b3f73f431a}{%
+           family={{Borla}},
+           familyi={B\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+        {{hash=a06f1c832053072f0256d1eeba9350ee}{%
+           family={{De}},
+           familyi={D\bibinitperiod},
+           given={Ayush},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8dbb1d3b7be7fd5e2448a0d91b7c6dbb}
+      \strng{fullhash}{8dbb1d3b7be7fd5e2448a0d91b7c6dbb}
+      \strng{bibnamehash}{8dbb1d3b7be7fd5e2448a0d91b7c6dbb}
+      \strng{authorbibnamehash}{8dbb1d3b7be7fd5e2448a0d91b7c6dbb}
+      \strng{authornamehash}{8dbb1d3b7be7fd5e2448a0d91b7c6dbb}
+      \strng{authorfullhash}{8dbb1d3b7be7fd5e2448a0d91b7c6dbb}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2507.16523}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{7}
+      \field{title}{{``Odd'' Toric Code in a tilted field: Higgs-confinement multicriticality, spontaneous self-duality symmetry breaking, and valence bond solids}}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{arXiv:2507.16523}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2507.16523
+      \endverb
+      \verb{eprint}
+      \verb 2507.16523
+      \endverb
+      \keyw{Strongly Correlated Electrons,High Energy Physics - Lattice,High Energy Physics - Theory}
+    \endentry
+    \entry{2024PhRvB.110t1110B}{article}{}
+      \name{author}{3}{}{%
+        {{hash=86a8b9271078894947cfc5b3f73f431a}{%
+           family={{Borla}},
+           familyi={B\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fd469b24d7e73ea3e15c02f3605953e3}{%
+           family={{Moroz}},
+           familyi={M\bibinitperiod},
+           given={Sergej},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bd3c9bb6c97afd4f7239d0ca3138844}
+      \strng{fullhash}{2bd3c9bb6c97afd4f7239d0ca3138844}
+      \strng{bibnamehash}{2bd3c9bb6c97afd4f7239d0ca3138844}
+      \strng{authorbibnamehash}{2bd3c9bb6c97afd4f7239d0ca3138844}
+      \strng{authornamehash}{2bd3c9bb6c97afd4f7239d0ca3138844}
+      \strng{authorfullhash}{2bd3c9bb6c97afd4f7239d0ca3138844}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{L201110}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{11}
+      \field{number}{20}
+      \field{title}{{Deconfined quantum criticality in Ising gauge theory entangled with single-component fermions}}
+      \field{volume}{110}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{L201110}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.110.L201110
+      \endverb
+      \verb{eprint}
+      \verb 2402.00933
+      \endverb
+      \keyw{Electronic structure and strongly correlated systems,Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Quantum Gases}
+    \endentry
+    \entry{2024APS..MARGG04004}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=86a8b9271078894947cfc5b3f73f431a}{%
+           family={{Borla}},
+           familyi={B\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+        {{hash=fd469b24d7e73ea3e15c02f3605953e3}{%
+           family={{Moroz}},
+           familyi={M\bibinitperiod},
+           given={Sergej},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{201d2a48b71dd6ca5d6f3ee43a0531d4}
+      \strng{fullhash}{201d2a48b71dd6ca5d6f3ee43a0531d4}
+      \strng{bibnamehash}{201d2a48b71dd6ca5d6f3ee43a0531d4}
+      \strng{authorbibnamehash}{201d2a48b71dd6ca5d6f3ee43a0531d4}
+      \strng{authornamehash}{201d2a48b71dd6ca5d6f3ee43a0531d4}
+      \strng{authorfullhash}{201d2a48b71dd6ca5d6f3ee43a0531d4}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{APS March Meeting Abstracts}
+      \field{eid}{GG04.004}
+      \field{month}{3}
+      \field{series}{APS Meeting Abstracts}
+      \field{title}{{Exotic criticality of single-component fermions coupled to Ising gauge fields in two dimensions}}
+      \field{volume}{2024}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{GG04.004}
+      \range{pages}{-1}
+    \endentry
+    \entry{2024PhRvB.109k5122C}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d479f0ca0ce70bf8a2c08dca75b7aa3a}{%
+           family={{Cohen}},
+           familyi={C\bibinitperiod},
+           given={Elyasaf\bibnamedelima Y.},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=0027d6e5a830045efdb389b23b3f0818}{%
+           family={{Alexandru}},
+           familyi={A\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{16b094237f6e0a7aa9652569171dafa6}
+      \strng{fullhash}{16b094237f6e0a7aa9652569171dafa6}
+      \strng{bibnamehash}{16b094237f6e0a7aa9652569171dafa6}
+      \strng{authorbibnamehash}{16b094237f6e0a7aa9652569171dafa6}
+      \strng{authornamehash}{16b094237f6e0a7aa9652569171dafa6}
+      \strng{authorfullhash}{16b094237f6e0a7aa9652569171dafa6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{115122}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{3}
+      \field{number}{11}
+      \field{title}{{Complex path simulations of geometrically frustrated ladders}}
+      \field{volume}{109}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{115122}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.109.115122
+      \endverb
+      \verb{eprint}
+      \verb 2302.10935
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,High Energy Physics - Lattice}
+    \endentry
+    \entry{2025arXiv250912311C}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d479f0ca0ce70bf8a2c08dca75b7aa3a}{%
+           family={{Cohen}},
+           familyi={C\bibinitperiod},
+           given={Elyasaf\bibnamedelima Y.},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=9055d547f50ae34931d0c6fa22b4d370}{%
+           family={{Assaad}},
+           familyi={A\bibinitperiod},
+           given={Fakher\bibnamedelima F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{28ce9dac138f99f3669ba9fc5909bc0e}
+      \strng{fullhash}{28ce9dac138f99f3669ba9fc5909bc0e}
+      \strng{bibnamehash}{28ce9dac138f99f3669ba9fc5909bc0e}
+      \strng{authorbibnamehash}{28ce9dac138f99f3669ba9fc5909bc0e}
+      \strng{authornamehash}{28ce9dac138f99f3669ba9fc5909bc0e}
+      \strng{authorfullhash}{28ce9dac138f99f3669ba9fc5909bc0e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2509.12311}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{9}
+      \field{title}{{Antiferromagnetism and Stripe Channel Order in the $\mathrm{SU}(N)$-Symmetric Two-Channel Kondo Lattice Model}}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{arXiv:2509.12311}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2509.12311
+      \endverb
+      \verb{eprint}
+      \verb 2509.12311
+      \endverb
+      \keyw{Strongly Correlated Electrons}
+    \endentry
+    \entry{2025arXiv250605461D}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a06f1c832053072f0256d1eeba9350ee}{%
+           family={{De}},
+           familyi={D\bibinitperiod},
+           given={Ayush},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b574ef4bf628cb777ca9b897ba3e37a1}{%
+           family={{Radzihovsky}},
+           familyi={R\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b413ac43f586aea59a3eec554d4a7e3}
+      \strng{fullhash}{1b413ac43f586aea59a3eec554d4a7e3}
+      \strng{bibnamehash}{1b413ac43f586aea59a3eec554d4a7e3}
+      \strng{authorbibnamehash}{1b413ac43f586aea59a3eec554d4a7e3}
+      \strng{authornamehash}{1b413ac43f586aea59a3eec554d4a7e3}
+      \strng{authorfullhash}{1b413ac43f586aea59a3eec554d4a7e3}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2506.05461}
+      \field{eprintclass}{cond-mat.stat-mech}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{6}
+      \field{title}{{Emergent Berezinskii-Kosterlitz-Thouless deconfinement in super-Coulombic plasmas}}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{arXiv:2506.05461}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2506.05461
+      \endverb
+      \verb{eprint}
+      \verb 2506.05461
+      \endverb
+      \keyw{Statistical Mechanics,Quantum Gases,Strongly Correlated Electrons,Atomic Physics}
+    \endentry
+    \entry{2024PhRvB.110o5135D}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a06f1c832053072f0256d1eeba9350ee}{%
+           family={{De}},
+           familyi={D\bibinitperiod},
+           given={Ayush},
+           giveni={A\bibinitperiod}}}%
+        {{hash=86a8b9271078894947cfc5b3f73f431a}{%
+           family={{Borla}},
+           familyi={B\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+        {{hash=dbcba0e91d00b25c8ae7305c001691c6}{%
+           family={{Cao}},
+           familyi={C\bibinitperiod},
+           given={Xiangyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{59a075e1470816b6e116a73d5b9f06c0}
+      \strng{fullhash}{3ae1c21517ad2769c22286fc2ab46c77}
+      \strng{bibnamehash}{59a075e1470816b6e116a73d5b9f06c0}
+      \strng{authorbibnamehash}{59a075e1470816b6e116a73d5b9f06c0}
+      \strng{authornamehash}{59a075e1470816b6e116a73d5b9f06c0}
+      \strng{authorfullhash}{3ae1c21517ad2769c22286fc2ab46c77}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{155135}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{10}
+      \field{number}{15}
+      \field{title}{{Stochastic sampling of operator growth dynamics}}
+      \field{volume}{110}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{155135}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.110.155135
+      \endverb
+      \verb{eprint}
+      \verb 2401.06215
+      \endverb
+      \keyw{Electronic structure and strongly correlated systems,Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Statistical Mechanics}
+    \endentry
+    \entry{2021PhRvB.103n0412D}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a75fdcb8c125c200c3ea1f462825504b}{%
+           family={{Dupont}},
+           familyi={D\bibinitperiod},
+           given={Maxime},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=43aeaaac34ec85d0878dab4a5021dce2}{%
+           family={{Scaffidi}},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{fullhash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{bibnamehash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{authorbibnamehash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{authornamehash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{authorfullhash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{L140412}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{4}
+      \field{number}{14}
+      \field{title}{{Evidence for deconfined U (1 ) gauge theory at the transition between toric code and double semion}}
+      \field{volume}{103}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{L140412}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.103.L140412
+      \endverb
+      \verb{eprint}
+      \verb 2008.06509
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2021PhRvB.103n4437D}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a75fdcb8c125c200c3ea1f462825504b}{%
+           family={{Dupont}},
+           familyi={D\bibinitperiod},
+           given={Maxime},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=43aeaaac34ec85d0878dab4a5021dce2}{%
+           family={{Scaffidi}},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{fullhash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{bibnamehash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{authorbibnamehash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{authornamehash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \strng{authorfullhash}{58f67925c7e9b59cf95e9e8e6540f369}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{144437}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{4}
+      \field{number}{14}
+      \field{title}{{From trivial to topological paramagnets: The case of Z$_2$ and Z$_2$$^3$ symmetries in two dimensions}}
+      \field{volume}{103}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{144437}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.103.144437
+      \endverb
+      \verb{eprint}
+      \verb 2008.11206
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2023PhRvD.107a4505E}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ffbfe36460e5651050e7d91c2b9d114c}{%
+           family={{Emonts}},
+           familyi={E\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=656210d77c37359bd3dc50e2f01bf796}{%
+           family={{Kelman}},
+           familyi={K\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=86a8b9271078894947cfc5b3f73f431a}{%
+           family={{Borla}},
+           familyi={B\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+        {{hash=fd469b24d7e73ea3e15c02f3605953e3}{%
+           family={{Moroz}},
+           familyi={M\bibinitperiod},
+           given={Sergej},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=23505897af5f0c610c137f2cb2bcfd57}{%
+           family={{Zohar}},
+           familyi={Z\bibinitperiod},
+           given={Erez},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e13e941a5d85ff63aba6235853a57915}
+      \strng{fullhash}{93dcc57bea90004961e221563f6ca945}
+      \strng{bibnamehash}{e13e941a5d85ff63aba6235853a57915}
+      \strng{authorbibnamehash}{e13e941a5d85ff63aba6235853a57915}
+      \strng{authornamehash}{e13e941a5d85ff63aba6235853a57915}
+      \strng{authorfullhash}{93dcc57bea90004961e221563f6ca945}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{014505}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Finding the ground state of a lattice gauge theory with fermionic tensor networks: A 2 +1 D Z$_2$ demonstration}}
+      \field{volume}{107}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{014505}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.107.014505
+      \endverb
+      \verb{eprint}
+      \verb 2211.00023
+      \endverb
+      \keyw{Quantum Physics,Condensed Matter - Strongly Correlated Electrons,High Energy Physics - Lattice}
+    \endentry
+    \entry{2015dnqc.book.....G}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d960fce0c8d5ca020bf0a53e0fb2e1bf}
+      \strng{fullhash}{d960fce0c8d5ca020bf0a53e0fb2e1bf}
+      \strng{bibnamehash}{d960fce0c8d5ca020bf0a53e0fb2e1bf}
+      \strng{authorbibnamehash}{d960fce0c8d5ca020bf0a53e0fb2e1bf}
+      \strng{authornamehash}{d960fce0c8d5ca020bf0a53e0fb2e1bf}
+      \strng{authorfullhash}{d960fce0c8d5ca020bf0a53e0fb2e1bf}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Dynamics Near Quantum Criticality in Two Space Dimensions}}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/978-3-319-19354-0
+      \endverb
+    \endentry
+    \entry{2020PhRvX..10d1057G}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9055d547f50ae34931d0c6fa22b4d370}{%
+           family={{Assaad}},
+           familyi={A\bibinitperiod},
+           given={Fakher\bibnamedelima F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=89be46409a28a725823c559e29e29f07}{%
+           family={{Sachdev}},
+           familyi={S\bibinitperiod},
+           given={Subir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1cd702ed51196428710440aefda3851}
+      \strng{fullhash}{b1cd702ed51196428710440aefda3851}
+      \strng{bibnamehash}{b1cd702ed51196428710440aefda3851}
+      \strng{authorbibnamehash}{b1cd702ed51196428710440aefda3851}
+      \strng{authornamehash}{b1cd702ed51196428710440aefda3851}
+      \strng{authorfullhash}{b1cd702ed51196428710440aefda3851}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{041057}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review X}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{{Fermi Surface Reconstruction without Symmetry Breaking}}
+      \field{volume}{10}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{041057}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevX.10.041057
+      \endverb
+      \verb{eprint}
+      \verb 1906.11250
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2014PhRvL.113x0601G}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d04eb39d3bdc0d5cb9fa9ed31ff723ef}{%
+           family={{Podolsky}},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6512d9cd36f4ab090012cf8e6976468b}{%
+           family={{Auerbach}},
+           familyi={A\bibinitperiod},
+           given={Assa},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{fullhash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{bibnamehash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{authorbibnamehash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{authornamehash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{authorfullhash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{240601}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{12}
+      \field{number}{24}
+      \field{title}{{Critical Capacitance and Charge-Vortex Duality Near the Superfluid-to-Insulator Transition}}
+      \field{volume}{113}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{240601}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.113.240601
+      \endverb
+      \verb{eprint}
+      \verb 1407.1055
+      \endverb
+      \keyw{05.60.Gg,05.30.Jp,05.30.Rt,37.10.Jk,Quantum transport,Boson systems,Atoms in optical lattices,Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Quantum Gases,Condensed Matter - Superconductivity}
+    \endentry
+    \entry{2013PhRvL.110n0401G}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d04eb39d3bdc0d5cb9fa9ed31ff723ef}{%
+           family={{Podolsky}},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6512d9cd36f4ab090012cf8e6976468b}{%
+           family={{Auerbach}},
+           familyi={A\bibinitperiod},
+           given={Assa},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{fullhash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{bibnamehash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{authorbibnamehash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{authornamehash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \strng{authorfullhash}{30a2a6634ff8e6cc2ebb008b4a8a85ee}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{140401}
+      \field{eprintclass}{cond-mat.quant-gas}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{4}
+      \field{number}{14}
+      \field{title}{{Fate of the Higgs Mode Near Quantum Criticality}}
+      \field{volume}{110}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{140401}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.110.140401
+      \endverb
+      \verb{eprint}
+      \verb 1212.3759
+      \endverb
+      \keyw{05.30.Jp,67.85.-d,74.25.nd,75.10.-b,Boson systems,Ultracold gases trapped gases,General theory and models of magnetic ordering,Condensed Matter - Quantum Gases,Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Superconductivity}
+    \endentry
+    \entry{2016arXiv160703892G}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=46f6817fff8fe6d49a5c3e5ef962460a}{%
+           family={{Randeria}},
+           familyi={R\bibinitperiod},
+           given={Mohit},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a894f8e0a89a2d488e10197dc7237eb}{%
+           family={{Vishwanath}},
+           familyi={V\bibinitperiod},
+           given={Ashvin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{fullhash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{bibnamehash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{authorbibnamehash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{authornamehash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{authorfullhash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:1607.03892}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{7}
+      \field{title}{{Charged fermions coupled to {$\mathbb{Z}_2$} gauge fields: Superfluidity, confinement and emergent Dirac fermions}}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{arXiv:1607.03892}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.1607.03892
+      \endverb
+      \verb{eprint}
+      \verb 1607.03892
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2017NatPh..13..484G}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=46f6817fff8fe6d49a5c3e5ef962460a}{%
+           family={{Randeria}},
+           familyi={R\bibinitperiod},
+           given={Mohit},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a894f8e0a89a2d488e10197dc7237eb}{%
+           family={{Vishwanath}},
+           familyi={V\bibinitperiod},
+           given={Ashvin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{fullhash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{bibnamehash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{authorbibnamehash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{authornamehash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \strng{authorfullhash}{d4cc56d6c26567a7a29eb55e81fd9e05}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Physics}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Emergent Dirac fermions and broken symmetries in confined and deconfined phases of Z$_2$ gauge theories}}
+      \field{volume}{13}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{484\bibrangedash 490}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/nphys4028
+      \endverb
+    \endentry
+    \entry{2016PhRvB..93k5146G}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8a894f8e0a89a2d488e10197dc7237eb}{%
+           family={{Vishwanath}},
+           familyi={V\bibinitperiod},
+           given={Ashvin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{47de7f3279200779c0024f87b39bd0e4}
+      \strng{fullhash}{47de7f3279200779c0024f87b39bd0e4}
+      \strng{bibnamehash}{47de7f3279200779c0024f87b39bd0e4}
+      \strng{authorbibnamehash}{47de7f3279200779c0024f87b39bd0e4}
+      \strng{authornamehash}{47de7f3279200779c0024f87b39bd0e4}
+      \strng{authorfullhash}{47de7f3279200779c0024f87b39bd0e4}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{115146}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{3}
+      \field{number}{11}
+      \field{title}{{Bosonic topological phase in a paired superfluid}}
+      \field{volume}{93}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{115146}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.93.115146
+      \endverb
+      \verb{eprint}
+      \verb 1510.05007
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Quantum Gases}
+    \endentry
+    \entry{2016PhRvL.117h5302G}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d04eb39d3bdc0d5cb9fa9ed31ff723ef}{%
+           family={{Podolsky}},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=daff6565eec89b0e42b5e3e32422e73a}{%
+           family={{Nonne}},
+           familyi={N\bibinitperiod},
+           given={Heloise},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6512d9cd36f4ab090012cf8e6976468b}{%
+           family={{Auerbach}},
+           familyi={A\bibinitperiod},
+           given={Assa},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9687db06e793f50167707ab780c3e9b4}{%
+           family={{Arovas}},
+           familyi={A\bibinitperiod},
+           given={Daniel\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{fullhash}{52e3196f0bab314300199e6bd64ff64a}
+      \strng{bibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorbibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authornamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorfullhash}{52e3196f0bab314300199e6bd64ff64a}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{085302}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{{Collective Modes in a Quantum Solid}}
+      \field{volume}{117}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{085302}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.117.085302
+      \endverb
+      \verb{eprint}
+      \verb 1511.02866
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Other Condensed Matter,Condensed Matter - Statistical Mechanics}
+    \endentry
+    \entry{2018PNAS..115E6987G}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9055d547f50ae34931d0c6fa22b4d370}{%
+           family={{Assaad}},
+           familyi={A\bibinitperiod},
+           given={Fakher\bibnamedelima F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=89be46409a28a725823c559e29e29f07}{%
+           family={{Sachdev}},
+           familyi={S\bibinitperiod},
+           given={Subir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8a894f8e0a89a2d488e10197dc7237eb}{%
+           family={{Vishwanath}},
+           familyi={V\bibinitperiod},
+           given={Ashvin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5305db1dfd127efb3eb09c039837c18f}{%
+           family={{Wang}},
+           familyi={W\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{fullhash}{2e59deaf4134734c3e3e94f71e02b381}
+      \strng{bibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorbibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authornamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorfullhash}{2e59deaf4134734c3e3e94f71e02b381}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Proceedings of the National Academy of Science}
+      \field{month}{7}
+      \field{number}{30}
+      \field{title}{{Confinement transition of \&Z;$_2$ gauge theories coupled to massless fermions: Emergent quantum chromodynamics and SO(5) symmetry}}
+      \field{volume}{115}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{E6987\bibrangedash E6995}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.1806338115
+      \endverb
+      \verb{eprint}
+      \verb 1804.01095
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2013PhRvB..88w5108G}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d04eb39d3bdc0d5cb9fa9ed31ff723ef}{%
+           family={{Podolsky}},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6512d9cd36f4ab090012cf8e6976468b}{%
+           family={{Auerbach}},
+           familyi={A\bibinitperiod},
+           given={Assa},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9687db06e793f50167707ab780c3e9b4}{%
+           family={{Arovas}},
+           familyi={A\bibinitperiod},
+           given={Daniel\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{fullhash}{264f08d97aa96d9b5c07bb7da9d9e9ad}
+      \strng{bibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorbibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authornamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorfullhash}{264f08d97aa96d9b5c07bb7da9d9e9ad}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{235108}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{12}
+      \field{number}{23}
+      \field{title}{{Dynamics and conductivity near quantum criticality}}
+      \field{volume}{88}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{235108}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.88.235108
+      \endverb
+      \verb{eprint}
+      \verb 1309.1765
+      \endverb
+      \keyw{05.30.Jp,67.85.-d,74.25.nd,75.10.-b,Boson systems,Ultracold gases trapped gases,General theory and models of magnetic ordering,Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Quantum Gases,Condensed Matter - Statistical Mechanics,Condensed Matter - Superconductivity}
+    \endentry
+    \entry{2009OExpr..1723920G}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4e9a6f7b7cb8681c0595218685fd02b4}{%
+           family={{Szameit}},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d147b0cce00b122576f734fc8dc462a7}{%
+           family={{Eldar}},
+           familyi={E\bibinitperiod},
+           given={Yonina\bibnamedelima C.},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=290473a4f81b4f72d4de664b0bdfa504}{%
+           family={{Segev}},
+           familyi={S\bibinitperiod},
+           given={Mordechai},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{fullhash}{9804241bcf89bbf0e685f04fa5f4a830}
+      \strng{bibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorbibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authornamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorfullhash}{9804241bcf89bbf0e685f04fa5f4a830}
+      \field{extraname}{4}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{physics.optics}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Optics Express}
+      \field{month}{12}
+      \field{number}{26}
+      \field{title}{{Super-resolution and reconstruction of sparse sub-wavelength images}}
+      \field{volume}{17}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{23920}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1364/OE.17.023920
+      \endverb
+      \verb{eprint}
+      \verb 0911.0981
+      \endverb
+      \keyw{Physics - Optics}
+    \endentry
+    \entry{2010OExpr..1826631G}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4e9a6f7b7cb8681c0595218685fd02b4}{%
+           family={{Szameit}},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d147b0cce00b122576f734fc8dc462a7}{%
+           family={{Eldar}},
+           familyi={E\bibinitperiod},
+           given={Yonina\bibnamedelima C.},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=290473a4f81b4f72d4de664b0bdfa504}{%
+           family={{Segev}},
+           familyi={S\bibinitperiod},
+           given={Mordechai},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{fullhash}{9804241bcf89bbf0e685f04fa5f4a830}
+      \strng{bibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorbibnamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authornamehash}{ce597cf51deb951d8590e05ea3194898}
+      \strng{authorfullhash}{9804241bcf89bbf0e685f04fa5f4a830}
+      \field{extraname}{5}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Express}
+      \field{month}{12}
+      \field{number}{25}
+      \field{title}{{Super-resolution and reconstruction of sparse sub-wavelength images: erratum}}
+      \field{volume}{18}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{26631}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1364/OE.18.026631
+      \endverb
+    \endentry
+    \entry{2020PhRvB.102v4204K}{article}{}
+      \name{author}{5}{}{%
+        {{hash=04e1d1810e4712e89c2a5f454fe94847}{%
+           family={{Kang}},
+           familyi={K\bibinitperiod},
+           given={Byungmin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0fbcce919b62e5505e0d94de1b1e83b0}{%
+           family={{Parameswaran}},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e1df4f4f7ab69f16f92a983c8169ab5e}{%
+           family={{Potter}},
+           familyi={P\bibinitperiod},
+           given={Andrew\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c65354bf22873fd497eeb7018df2f9d4}{%
+           family={{Vasseur}},
+           familyi={V\bibinitperiod},
+           given={Romain},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a11ef15f5d24069d352b26e14ae4f534}
+      \strng{fullhash}{236f094e6a03ed75e51671a43bc26cdb}
+      \strng{bibnamehash}{a11ef15f5d24069d352b26e14ae4f534}
+      \strng{authorbibnamehash}{a11ef15f5d24069d352b26e14ae4f534}
+      \strng{authornamehash}{a11ef15f5d24069d352b26e14ae4f534}
+      \strng{authorfullhash}{236f094e6a03ed75e51671a43bc26cdb}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{224204}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{12}
+      \field{number}{22}
+      \field{title}{{Superuniversality from disorder at two-dimensional topological phase transitions}}
+      \field{volume}{102}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{224204}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.102.224204
+      \endverb
+      \verb{eprint}
+      \verb 2008.09617
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Disordered Systems and Neural Networks,High Energy Physics - Theory}
+    \endentry
+    \entry{2016PhRvB..93v4205K}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6bcfdad0b89a2f488cd5785455cf556e}{%
+           family={{Khait}},
+           familyi={K\bibinitperiod},
+           given={Ilia},
+           giveni={I\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7cd626b291b1591383af185597568b20}{%
+           family={{Yao}},
+           familyi={Y\bibinitperiod},
+           given={Norman\bibnamedelima Y.},
+           giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=6512d9cd36f4ab090012cf8e6976468b}{%
+           family={{Auerbach}},
+           familyi={A\bibinitperiod},
+           given={Assa},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5e9e6f8a2c59d6ddd0678149ef4d0f0}
+      \strng{fullhash}{657260ae65fc3c564c1cf70022f5ea22}
+      \strng{bibnamehash}{f5e9e6f8a2c59d6ddd0678149ef4d0f0}
+      \strng{authorbibnamehash}{f5e9e6f8a2c59d6ddd0678149ef4d0f0}
+      \strng{authornamehash}{f5e9e6f8a2c59d6ddd0678149ef4d0f0}
+      \strng{authorfullhash}{657260ae65fc3c564c1cf70022f5ea22}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{224205}
+      \field{eprintclass}{cond-mat.dis-nn}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{6}
+      \field{number}{22}
+      \field{title}{{Spin transport of weakly disordered Heisenberg chain at infinite temperature}}
+      \field{volume}{93}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{224205}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.93.224205
+      \endverb
+      \verb{eprint}
+      \verb 1603.06588
+      \endverb
+      \keyw{Condensed Matter - Disordered Systems and Neural Networks,Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2018PhRvL.120o0601K}{article}{}
+      \name{author}{5}{}{%
+        {{hash=1af5e8108b71b9ef63ba91e384e900fb}{%
+           family={{Kolodrubetz}},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1e3b185fe481c67d25ea554bda4cea22}{%
+           family={{Nathan}},
+           familyi={N\bibinitperiod},
+           given={Frederik},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=539521a3f729c2d9e1dfb0c08389ceb6}{%
+           family={{Morimoto}},
+           familyi={M\bibinitperiod},
+           given={Takahiro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c5b71748031c9aa6b5d17116c88bf263}{%
+           family={{Moore}},
+           familyi={M\bibinitperiod},
+           given={Joel\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e1bf7b927cd0b54efc302e97166e59f}
+      \strng{fullhash}{27fe974677eaa5cf7902f7b327f6d3e4}
+      \strng{bibnamehash}{8e1bf7b927cd0b54efc302e97166e59f}
+      \strng{authorbibnamehash}{8e1bf7b927cd0b54efc302e97166e59f}
+      \strng{authornamehash}{8e1bf7b927cd0b54efc302e97166e59f}
+      \strng{authorfullhash}{27fe974677eaa5cf7902f7b327f6d3e4}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{150601}
+      \field{eprintclass}{cond-mat.quant-gas}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{4}
+      \field{number}{15}
+      \field{title}{{Topological Floquet-Thouless Energy Pump}}
+      \field{volume}{120}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{150601}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.120.150601
+      \endverb
+      \verb{eprint}
+      \verb 1711.00014
+      \endverb
+      \keyw{Condensed Matter - Quantum Gases,Condensed Matter - Disordered Systems and Neural Networks,Quantum Physics}
+    \endentry
+    \entry{2017PhRvL.118e6601L}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c24283f2760f25196eeb40788d2733b1}{%
+           family={{Lucas}},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d04eb39d3bdc0d5cb9fa9ed31ff723ef}{%
+           family={{Podolsky}},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5001613e020669fc534e16717561b0e9}{%
+           family={{Witczak-Krempa}},
+           familyi={W\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed7866a80e984144b9cb0d7a2b7e1a34}
+      \strng{fullhash}{5631d32fac4320c0952aeed1e460e689}
+      \strng{bibnamehash}{ed7866a80e984144b9cb0d7a2b7e1a34}
+      \strng{authorbibnamehash}{ed7866a80e984144b9cb0d7a2b7e1a34}
+      \strng{authornamehash}{ed7866a80e984144b9cb0d7a2b7e1a34}
+      \strng{authorfullhash}{5631d32fac4320c0952aeed1e460e689}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{056601}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{2}
+      \field{number}{5}
+      \field{title}{{Dynamical Response near Quantum Critical Points}}
+      \field{volume}{118}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{056601}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.118.056601
+      \endverb
+      \verb{eprint}
+      \verb 1608.02586
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Quantum Gases,Condensed Matter - Statistical Mechanics,High Energy Physics - Theory}
+    \endentry
+    \entry{2018APS..MARS34009M}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=1c9cb9c61e0fa36ef131633eebdf1769}{%
+           family={{Motruk}},
+           familyi={M\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=048e492e5e2dd2d09aa702ef2be07257}{%
+           family={{Landau}},
+           familyi={L\bibinitperiod},
+           given={Zeph},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=64b47afeffedcc077d514b035c0d652e}{%
+           family={{Vazirani}},
+           familyi={V\bibinitperiod},
+           given={Umesh},
+           giveni={U\bibinitperiod}}}%
+        {{hash=8b6d6d8db365e69040e73c0a71152855}{%
+           family={{Yao}},
+           familyi={Y\bibinitperiod},
+           given={Norman},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{20026078c17038fecd5cd39f97b3222c}
+      \strng{fullhash}{85dbd4508dd3c451cc3fb26d39d34240}
+      \strng{bibnamehash}{20026078c17038fecd5cd39f97b3222c}
+      \strng{authorbibnamehash}{20026078c17038fecd5cd39f97b3222c}
+      \strng{authornamehash}{20026078c17038fecd5cd39f97b3222c}
+      \strng{authorfullhash}{85dbd4508dd3c451cc3fb26d39d34240}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{APS March Meeting Abstracts}
+      \field{eid}{S34.009}
+      \field{month}{1}
+      \field{series}{APS Meeting Abstracts}
+      \field{title}{{Rigorous renormalization group at first-order phase transitions}}
+      \field{volume}{2018}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{S34.009}
+      \range{pages}{-1}
+    \endentry
+    \entry{2021PhRvL.127p6804N}{article}{}
+      \name{author}{5}{}{%
+        {{hash=1e3b185fe481c67d25ea554bda4cea22}{%
+           family={{Nathan}},
+           familyi={N\bibinitperiod},
+           given={Frederik},
+           giveni={F\bibinitperiod}}}%
+        {{hash=86fccf1602d869dcd94a088fdf568027}{%
+           family={{Ge}},
+           familyi={G\bibinitperiod},
+           given={Rongchun},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ecb650016111c5b602db7e7f883f5982}{%
+           family={{Rudner}},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e72814e5248fee8c91a16b96e07d6cd4}{%
+           family={{Kolodrubetz}},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0b33f6d13cd61127b9575719085e102}
+      \strng{fullhash}{0b0240dc1d3097abcf7ad6a0d29b965c}
+      \strng{bibnamehash}{d0b33f6d13cd61127b9575719085e102}
+      \strng{authorbibnamehash}{d0b33f6d13cd61127b9575719085e102}
+      \strng{authornamehash}{d0b33f6d13cd61127b9575719085e102}
+      \strng{authorfullhash}{0b0240dc1d3097abcf7ad6a0d29b965c}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{166804}
+      \field{eprintclass}{cond-mat.mes-hall}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{10}
+      \field{number}{16}
+      \field{title}{{Quasiperiodic Floquet-Thouless Energy Pump}}
+      \field{volume}{127}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{166804}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.127.166804
+      \endverb
+      \verb{eprint}
+      \verb 2010.11485
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Quantum Physics}
+    \endentry
+    \entry{2024arXiv241007310N}{article}{}
+      \name{author}{11}{}{%
+        {{hash=354d493f5b91655cc85329768d803c27}{%
+           family={{Noah}},
+           familyi={N\bibinitperiod},
+           given={Avia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8fec152d4c74a287a23adbadad6ff4a2}{%
+           family={{Fridman}},
+           familyi={F\bibinitperiod},
+           given={Nofar},
+           giveni={N\bibinitperiod}}}%
+        {{hash=605e43dac0892c8683d7211852d855ec}{%
+           family={{Zur}},
+           familyi={Z\bibinitperiod},
+           given={Yishay},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5e32374c5a655f8a63e490aef50d32f2}{%
+           family={{Markman}},
+           familyi={M\bibinitperiod},
+           given={Maya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7eac842d0f694902ea4bce6f4e71ff5f}{%
+           family={{Katz King}},
+           familyi={K\bibinitperiod},
+           given={Yotam},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=457d26cb53e844e69e8cd44c385b21f3}{%
+           family={{Klang}},
+           familyi={K\bibinitperiod},
+           given={Maya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=98708c1272ed8ff939443b447af9b33f}{%
+           family={{Rama-Eiroa}},
+           familyi={R\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3409755ceed38466a7c0a7c6b2f80d79}{%
+           family={{Solanki}},
+           familyi={S\bibinitperiod},
+           given={Harshvardhan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cacbe288e915846a3c92d38c05af39c1}{%
+           family={{Reichenberg Ashby}},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=89bb30121fd0202bf0947af18c0910d9}{%
+           family={{Levin}},
+           familyi={L\bibinitperiod},
+           given={Tamar},
+           giveni={T\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{fullhash}{042389975434b8807b8988d4a37a0da2}
+      \strng{bibnamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authorbibnamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authornamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authorfullhash}{042389975434b8807b8988d4a37a0da2}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2410.07310}
+      \field{eprintclass}{cond-mat.mtrl-sci}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{10}
+      \field{title}{{Field-induced antiferromagnetic correlations in a nanopatterned van der Waals ferromagnet: a potential artificial spin ice}}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{arXiv:2410.07310}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2410.07310
+      \endverb
+      \verb{eprint}
+      \verb 2410.07310
+      \endverb
+      \keyw{Condensed Matter - Materials Science,Condensed Matter - Mesoscale and Nanoscale Physics}
+    \endentry
+    \entry{2025AdvSc..1209240N}{article}{}
+      \name{author}{11}{}{%
+        {{hash=354d493f5b91655cc85329768d803c27}{%
+           family={{Noah}},
+           familyi={N\bibinitperiod},
+           given={Avia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8fec152d4c74a287a23adbadad6ff4a2}{%
+           family={{Fridman}},
+           familyi={F\bibinitperiod},
+           given={Nofar},
+           giveni={N\bibinitperiod}}}%
+        {{hash=605e43dac0892c8683d7211852d855ec}{%
+           family={{Zur}},
+           familyi={Z\bibinitperiod},
+           given={Yishay},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5e32374c5a655f8a63e490aef50d32f2}{%
+           family={{Markman}},
+           familyi={M\bibinitperiod},
+           given={Maya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6f26d043e73f240a25e562fa51649046}{%
+           family={{King}},
+           familyi={K\bibinitperiod},
+           given={Yotam\bibnamedelima Katz},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=457d26cb53e844e69e8cd44c385b21f3}{%
+           family={{Klang}},
+           familyi={K\bibinitperiod},
+           given={Maya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=98708c1272ed8ff939443b447af9b33f}{%
+           family={{Rama-Eiroa}},
+           familyi={R\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3409755ceed38466a7c0a7c6b2f80d79}{%
+           family={{Solanki}},
+           familyi={S\bibinitperiod},
+           given={Harshvardhan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=74b252fa27dc5a44adfa775621f3712c}{%
+           family={{Ashby}},
+           familyi={A\bibinitperiod},
+           given={Michael\bibnamedelimb L.\bibnamedelimi Reichenberg},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=89bb30121fd0202bf0947af18c0910d9}{%
+           family={{Levin}},
+           familyi={L\bibinitperiod},
+           given={Tamar},
+           giveni={T\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{fullhash}{18ee5a518a1d3ecb32d112bb6c5e50b4}
+      \strng{bibnamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authorbibnamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authornamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authorfullhash}{18ee5a518a1d3ecb32d112bb6c5e50b4}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{2409240}
+      \field{journaltitle}{Advanced Science}
+      \field{month}{2}
+      \field{number}{5}
+      \field{title}{{Field‑Induced Antiferromagnetic Correlations in a Nanopatterned Van der Waals Ferromagnet: A Potential Artificial Spin Ice}}
+      \field{volume}{12}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{2409240}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/advs.202409240
+      \endverb
+    \endentry
+    \entry{2023ACSAN...6.8627N}{article}{}
+      \name{author}{11}{}{%
+        {{hash=354d493f5b91655cc85329768d803c27}{%
+           family={{Noah}},
+           familyi={N\bibinitperiod},
+           given={Avia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=605e43dac0892c8683d7211852d855ec}{%
+           family={{Zur}},
+           familyi={Z\bibinitperiod},
+           given={Yishay},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8fec152d4c74a287a23adbadad6ff4a2}{%
+           family={{Fridman}},
+           familyi={F\bibinitperiod},
+           given={Nofar},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1135f682300baa9e9ff179938204c79e}{%
+           family={{Singh}},
+           familyi={S\bibinitperiod},
+           given={Sourabh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=652b772137c28aac3417e2b3759580d7}{%
+           family={{Gutfreund}},
+           familyi={G\bibinitperiod},
+           given={Alon},
+           giveni={A\bibinitperiod}}}%
+        {{hash=22b987a848c1676d8bc413850034c172}{%
+           family={{Herrera}},
+           familyi={H\bibinitperiod},
+           given={Edwin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5491d879919bc3ff153a4a414742f196}{%
+           family={{Vakahi}},
+           familyi={V\bibinitperiod},
+           given={Atzmon},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8b90092474e707310accada5f123bc67}{%
+           family={{Remennik}},
+           familyi={R\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f7f83d80da6b2a428f858b2c02da4653}{%
+           family={{Huber}},
+           familyi={H\bibinitperiod},
+           given={Martin\bibnamedelima Emile},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{fullhash}{26471efce1b2c91ec941120863ea52cb}
+      \strng{bibnamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authorbibnamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authornamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authorfullhash}{26471efce1b2c91ec941120863ea52cb}
+      \field{extraname}{3}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.mes-hall}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{ACS Applied Nano Materials}
+      \field{month}{5}
+      \field{number}{10}
+      \field{title}{{Nano-Patterned Magnetic Edges in CrGeTe3 for Quasi 1-D Spintronic Devices}}
+      \field{volume}{6}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{8627\bibrangedash 8634}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/acsanm.3c01008
+      \endverb
+      \verb{eprint}
+      \verb 2305.14431
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics}
+    \endentry
+    \entry{2022PhRvB.105n4423N}{article}{}
+      \name{author}{11}{}{%
+        {{hash=354d493f5b91655cc85329768d803c27}{%
+           family={{Noah}},
+           familyi={N\bibinitperiod},
+           given={Avia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4bfc669849dc02a58ff66fbb42476778}{%
+           family={{Toric}},
+           familyi={T\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2db5b2cca72dcfb7d6562e49d808670c}{%
+           family={{Feld}},
+           familyi={F\bibinitperiod},
+           given={Tomer\bibnamedelima D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=920ecfc36092834df14d1a3f354fdd8a}{%
+           family={{Zissman}},
+           familyi={Z\bibinitperiod},
+           given={Gilad},
+           giveni={G\bibinitperiod}}}%
+        {{hash=652b772137c28aac3417e2b3759580d7}{%
+           family={{Gutfreund}},
+           familyi={G\bibinitperiod},
+           given={Alon},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6cebb51c880792a2336627e4d541c22b}{%
+           family={{Tsruya}},
+           familyi={T\bibinitperiod},
+           given={Dor},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c74ad91d15a9a13f9d884437c4e308eb}{%
+           family={{Devidas}},
+           familyi={D\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=2d27949326e467b146dc0efd7d4089a1}{%
+           family={{Alpern}},
+           familyi={A\bibinitperiod},
+           given={Hen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5491d879919bc3ff153a4a414742f196}{%
+           family={{Vakahi}},
+           familyi={V\bibinitperiod},
+           given={Atzmon},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e3d3aaf7e6ae47e28b7dc08f4592a1e5}{%
+           family={{Steinberg}},
+           familyi={S\bibinitperiod},
+           given={Hadar},
+           giveni={H\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{fullhash}{473eaddcbbaab7b1e9613ffa0e5b984f}
+      \strng{bibnamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authorbibnamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authornamehash}{63ee85bfee8a0d303a2d02863a8c33d0}
+      \strng{authorfullhash}{473eaddcbbaab7b1e9613ffa0e5b984f}
+      \field{extraname}{4}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{144423}
+      \field{eprintclass}{cond-mat.mtrl-sci}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{4}
+      \field{number}{14}
+      \field{title}{{Tunable exchange bias in the magnetic Weyl semimetal Co$_3$Sn$_2$S$_2$}}
+      \field{volume}{105}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{144423}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.105.144423
+      \endverb
+      \verb{eprint}
+      \verb 2101.11639
+      \endverb
+      \keyw{Condensed Matter - Materials Science,Condensed Matter - Mesoscale and Nanoscale Physics}
+    \endentry
+    \entry{2014PhRvB..89t5116O}{article}{}
+      \name{author}{7}{}{%
+        {{hash=639187d6ff208a0dcdae55d07d9274aa}{%
+           family={{Ofer}},
+           familyi={O\bibinitperiod},
+           given={Oren},
+           giveni={O\bibinitperiod}}}%
+        {{hash=c31cf4172c41c7b6c1dbba4bfddd4f4d}{%
+           family={{Marcipar}},
+           familyi={M\bibinitperiod},
+           given={Lital},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6aca75f4c710b0e7dfba247601d6dcfc}{%
+           family={{Ravi Chandra}},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d04eb39d3bdc0d5cb9fa9ed31ff723ef}{%
+           family={{Podolsky}},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9687db06e793f50167707ab780c3e9b4}{%
+           family={{Arovas}},
+           familyi={A\bibinitperiod},
+           given={Daniel\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=eae7c4736f5887ebee27474dea3e3e4b}{%
+           family={{Keren}},
+           familyi={K\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{52974de4d1bedccf8ebbdc3ae3bff731}
+      \strng{fullhash}{ae594e0754ce781ce12c6f8228c4b98d}
+      \strng{bibnamehash}{52974de4d1bedccf8ebbdc3ae3bff731}
+      \strng{authorbibnamehash}{52974de4d1bedccf8ebbdc3ae3bff731}
+      \strng{authornamehash}{52974de4d1bedccf8ebbdc3ae3bff731}
+      \strng{authorfullhash}{ae594e0754ce781ce12c6f8228c4b98d}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{205116}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{5}
+      \field{number}{20}
+      \field{title}{{Dynamic spin fluctuations at T {\textrightarrow}0 in a spin-1/2 ferromagnetic kagome lattice}}
+      \field{volume}{89}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{205116}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.89.205116
+      \endverb
+      \verb{eprint}
+      \verb 1311.7411
+      \endverb
+      \keyw{75.10.Kt,75.30.-m,76.30.-v,76.75.+i,Intrinsic properties of magnetically ordered materials,Electron paramagnetic resonance and relaxation,Muon spin rotation and relaxation,Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2020PhRvB.101o5152O}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8502527d1d082e3e57f9502b2af482dc}{%
+           family={{Olund}},
+           familyi={O\bibinitperiod},
+           given={Christopher\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=718be7e52193beac2fd0219d024d5520}{%
+           family={{Block}},
+           familyi={B\bibinitperiod},
+           given={Maxwell},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=30ef1cfee450df19df9c1f8fef2fe1bf}{%
+           family={{McGreevy}},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7cd626b291b1591383af185597568b20}{%
+           family={{Yao}},
+           familyi={Y\bibinitperiod},
+           given={Norman\bibnamedelima Y.},
+           giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{24902f44b94e00f508e962dbe3fc9ea3}
+      \strng{fullhash}{e1c620952d658731fe76fb10496991c0}
+      \strng{bibnamehash}{24902f44b94e00f508e962dbe3fc9ea3}
+      \strng{authorbibnamehash}{24902f44b94e00f508e962dbe3fc9ea3}
+      \strng{authornamehash}{24902f44b94e00f508e962dbe3fc9ea3}
+      \strng{authorfullhash}{e1c620952d658731fe76fb10496991c0}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{155152}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{4}
+      \field{number}{15}
+      \field{title}{{Adiabatic ground state preparation in an expanding lattice}}
+      \field{volume}{101}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{155152}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.101.155152
+      \endverb
+      \verb{eprint}
+      \verb 2002.09592
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,Quantum Physics}
+    \endentry
+    \entry{2024PhRvR...6d3322O}{article}{}
+      \name{author}{4}{}{%
+        {{hash=53b13ea3369d3e1e881bd3857e8efa2c}{%
+           family={{Oppenheim}},
+           familyi={O\bibinitperiod},
+           given={Lior},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6d33a3d7a7b7ff2b9042ecc5fcffc976}{%
+           family={{Koch-Janusz}},
+           familyi={K\bibinitperiod},
+           given={Maciej},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bb76bd2afd3dc99fdfa9aea030b661c1}{%
+           family={{Ringel}},
+           familyi={R\bibinitperiod},
+           given={Zohar},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fb27855706243be5ebeb0983e9ff875}
+      \strng{fullhash}{a80e7908d249d58de2eb43715a70aca9}
+      \strng{bibnamehash}{5fb27855706243be5ebeb0983e9ff875}
+      \strng{authorbibnamehash}{5fb27855706243be5ebeb0983e9ff875}
+      \strng{authornamehash}{5fb27855706243be5ebeb0983e9ff875}
+      \strng{authorfullhash}{a80e7908d249d58de2eb43715a70aca9}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{043322}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Research}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Machine learning the operator content of the critical self-dual Ising-Higgs lattice gauge theory}}
+      \field{volume}{6}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{043322}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevResearch.6.043322
+      \endverb
+      \verb{eprint}
+      \verb 2311.17994
+      \endverb
+      \keyw{Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Disordered Systems and Neural Networks,Condensed Matter - Statistical Mechanics,High Energy Physics - Lattice,High Energy Physics - Theory}
+    \endentry
+    \entry{2019PhRvL.123z6803S}{article}{}
+      \name{author}{4}{}{%
+        {{hash=794dbafc80d92c235cd0c746cdd3c7a0}{%
+           family={{Schuster}},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c5b71748031c9aa6b5d17116c88bf263}{%
+           family={{Moore}},
+           familyi={M\bibinitperiod},
+           given={Joel\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7cd626b291b1591383af185597568b20}{%
+           family={{Yao}},
+           familyi={Y\bibinitperiod},
+           given={Norman\bibnamedelima Y.},
+           giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{74c9ff649ce7cbee69474d33e6fdb1cc}
+      \strng{fullhash}{31f74ead1e249439904250ebf3965c5a}
+      \strng{bibnamehash}{74c9ff649ce7cbee69474d33e6fdb1cc}
+      \strng{authorbibnamehash}{74c9ff649ce7cbee69474d33e6fdb1cc}
+      \strng{authornamehash}{74c9ff649ce7cbee69474d33e6fdb1cc}
+      \strng{authorfullhash}{31f74ead1e249439904250ebf3965c5a}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{266803}
+      \field{eprintclass}{cond-mat.mes-hall}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{12}
+      \field{number}{26}
+      \field{title}{{Floquet Hopf Insulators}}
+      \field{volume}{123}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{266803}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.123.266803
+      \endverb
+      \verb{eprint}
+      \verb 1903.02558
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Condensed Matter - Quantum Gases,Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2025PhRvB.111r4413S}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e1861353b15d4dbf2b7953e5a3dfe86a}{%
+           family={{Segall}},
+           familyi={S\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d04eb39d3bdc0d5cb9fa9ed31ff723ef}{%
+           family={{Podolsky}},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{64f61bbf5a45c679782a11795a7bfa81}
+      \strng{fullhash}{64f61bbf5a45c679782a11795a7bfa81}
+      \strng{bibnamehash}{64f61bbf5a45c679782a11795a7bfa81}
+      \strng{authorbibnamehash}{64f61bbf5a45c679782a11795a7bfa81}
+      \strng{authornamehash}{64f61bbf5a45c679782a11795a7bfa81}
+      \strng{authorfullhash}{64f61bbf5a45c679782a11795a7bfa81}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{184413}
+      \field{eprintclass}{cond-mat.stat-mech}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{5}
+      \field{number}{18}
+      \field{title}{{Improved actions using the renormalization group}}
+      \field{volume}{111}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{184413}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.111.184413
+      \endverb
+      \verb{eprint}
+      \verb 2408.06414
+      \endverb
+      \keyw{Magnetism,Condensed Matter - Statistical Mechanics,Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+    \entry{2010OptL...35.1148S}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9dcab415ed5debc40bc4509ebaa04302}{%
+           family={{Shechtman}},
+           familyi={S\bibinitperiod},
+           given={Yoav},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4e9a6f7b7cb8681c0595218685fd02b4}{%
+           family={{Szameit}},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d147b0cce00b122576f734fc8dc462a7}{%
+           family={{Eldar}},
+           familyi={E\bibinitperiod},
+           given={Yonina\bibnamedelima C.},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=290473a4f81b4f72d4de664b0bdfa504}{%
+           family={{Segev}},
+           familyi={S\bibinitperiod},
+           given={Mordechai},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cefb03700e60ca32b42e7a81accd67d}
+      \strng{fullhash}{844a73f0a73c6ced0e65301cca4abb33}
+      \strng{bibnamehash}{5cefb03700e60ca32b42e7a81accd67d}
+      \strng{authorbibnamehash}{5cefb03700e60ca32b42e7a81accd67d}
+      \strng{authornamehash}{5cefb03700e60ca32b42e7a81accd67d}
+      \strng{authorfullhash}{844a73f0a73c6ced0e65301cca4abb33}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{month}{4}
+      \field{number}{8}
+      \field{title}{{Super-resolution and reconstruction of sparse images carried by incoherent light}}
+      \field{volume}{35}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{1148}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1364/OL.35.001148
+      \endverb
+    \endentry
+    \entry{2024arXiv241103442S}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2fdd05d3911827ab29e9da921af45051}{%
+           family={{Shkolnik}},
+           familyi={S\bibinitperiod},
+           given={Gal},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ce74e2030e2e24ef7f580b1af679a0cb}{%
+           family={{Gopalakrishnan}},
+           familyi={G\bibinitperiod},
+           given={Sarang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=afc2feebd8732fd639f4590f45eb781b}{%
+           family={{Huse}},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e6634b695e208c8827f89c527ba2ed1}{%
+           family={{Pixley}},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{33afe6849220bc102962683848e4dbaa}
+      \strng{fullhash}{e5efc18462c0bf9236c2ec1685e71ff7}
+      \strng{bibnamehash}{33afe6849220bc102962683848e4dbaa}
+      \strng{authorbibnamehash}{33afe6849220bc102962683848e4dbaa}
+      \strng{authornamehash}{33afe6849220bc102962683848e4dbaa}
+      \strng{authorfullhash}{e5efc18462c0bf9236c2ec1685e71ff7}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2411.03442}
+      \field{eprintclass}{cond-mat.dis-nn}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{11}
+      \field{title}{{Infinitely fast critical dynamics: Teleportation through temporal rare regions in monitored quantum circuits}}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{arXiv:2411.03442}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2411.03442
+      \endverb
+      \verb{eprint}
+      \verb 2411.03442
+      \endverb
+      \keyw{Condensed Matter - Disordered Systems and Neural Networks,Condensed Matter - Statistical Mechanics,Condensed Matter - Strongly Correlated Electrons,Quantum Physics}
+    \endentry
+    \entry{2023PhRvB.108r4204S}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2fdd05d3911827ab29e9da921af45051}{%
+           family={{Shkolnik}},
+           familyi={S\bibinitperiod},
+           given={Gal},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b03397e7f4e1fd2f937722f0cc5eab60}{%
+           family={{Zabalo}},
+           familyi={Z\bibinitperiod},
+           given={Aidan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c65354bf22873fd497eeb7018df2f9d4}{%
+           family={{Vasseur}},
+           familyi={V\bibinitperiod},
+           given={Romain},
+           giveni={R\bibinitperiod}}}%
+        {{hash=afc2feebd8732fd639f4590f45eb781b}{%
+           family={{Huse}},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6e6634b695e208c8827f89c527ba2ed1}{%
+           family={{Pixley}},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{33afe6849220bc102962683848e4dbaa}
+      \strng{fullhash}{d37c89623cd0c78f9b25a63b4bd3ddda}
+      \strng{bibnamehash}{33afe6849220bc102962683848e4dbaa}
+      \strng{authorbibnamehash}{33afe6849220bc102962683848e4dbaa}
+      \strng{authornamehash}{33afe6849220bc102962683848e4dbaa}
+      \strng{authorfullhash}{d37c89623cd0c78f9b25a63b4bd3ddda}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{184204}
+      \field{eprintclass}{cond-mat.dis-nn}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review B}
+      \field{month}{11}
+      \field{number}{18}
+      \field{title}{{Measurement induced criticality in quasiperiodic modulated random hybrid circuits}}
+      \field{volume}{108}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{184204}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.108.184204
+      \endverb
+      \verb{eprint}
+      \verb 2308.03844
+      \endverb
+      \keyw{Condensed Matter - Disordered Systems and Neural Networks,Condensed Matter - Statistical Mechanics,Condensed Matter - Strongly Correlated Electrons,Quantum Physics}
+    \endentry
+    \entry{2019OExpr..27.8920S}{article}{}
+      \name{author}{11}{}{%
+        {{hash=15ad54b0a6955e803cecb43a984f31fb}{%
+           family={{Sidorenko}},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ec4d0d12dbee13416097ed89dd222fa0}{%
+           family={{Dikopoltsev}},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=70bb29849655e1e7ac33109deceee2ab}{%
+           family={{Zahavy}},
+           familyi={Z\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3865819e552b81940d98fb15e9b8afbc}{%
+           family={{Lahav}},
+           familyi={L\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=ec87d6c4ab6cc2479536790c1d49ffd4}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=24f63d9e354bb0162a73b6d1ab6735c3}{%
+           family={{Shechtman}},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9710344382035fe6effdcc2e915e86ae}{%
+           family={{Szameit}},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=34ea9aaff9887cfd1d7c2323c74dd366}{%
+           family={{Tannor}},
+           familyi={T\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5ff4278634f3dc13645a76f4bc0e5712}{%
+           family={{Eldar}},
+           familyi={E\bibinitperiod},
+           given={Y.\bibnamedelimi C.},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=cf83dce661ebdfb8dc399c120d81e7e4}{%
+           family={{Segev}},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{53a58acc8293c8a3d9255e56cf3472f6}
+      \strng{fullhash}{a0cd969102ebf642ea41268ebd94687e}
+      \strng{bibnamehash}{53a58acc8293c8a3d9255e56cf3472f6}
+      \strng{authorbibnamehash}{53a58acc8293c8a3d9255e56cf3472f6}
+      \strng{authornamehash}{53a58acc8293c8a3d9255e56cf3472f6}
+      \strng{authorfullhash}{a0cd969102ebf642ea41268ebd94687e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Express}
+      \field{month}{3}
+      \field{number}{6}
+      \field{title}{{Improving techniques for diagnostics of laser pulses by compact representations}}
+      \field{volume}{27}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{8920}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1364/OE.27.008920
+      \endverb
+    \endentry
+    \entry{2020PhRvL.125y5301S}{article}{}
+      \name{author}{6}{}{%
+        {{hash=8a05dd74c4d00cab6cfb3ccfe794ed2e}{%
+           family={{Slobodkin}},
+           familyi={S\bibinitperiod},
+           given={Yevgeny},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1abdaf0c571b379f83cdfffcd8932f6a}{%
+           family={{Mazuz-Harpaz}},
+           familyi={M\bibinitperiod},
+           given={Yotam},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=04118a3f5b01dc6dc707254998d7979a}{%
+           family={{Refaely-Abramson}},
+           familyi={R\bibinitperiod},
+           given={Sivan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e3d3aaf7e6ae47e28b7dc08f4592a1e5}{%
+           family={{Steinberg}},
+           familyi={S\bibinitperiod},
+           given={Hadar},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8f56a3a87c74791174ccc82c3e1b137b}{%
+           family={{Rapaport}},
+           familyi={R\bibinitperiod},
+           given={Ronen},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{56b68789e6b35b47de7c0596480f9153}
+      \strng{fullhash}{fb44339c8ebe31257b3175f4782f71c7}
+      \strng{bibnamehash}{56b68789e6b35b47de7c0596480f9153}
+      \strng{authorbibnamehash}{56b68789e6b35b47de7c0596480f9153}
+      \strng{authornamehash}{56b68789e6b35b47de7c0596480f9153}
+      \strng{authorfullhash}{fb44339c8ebe31257b3175f4782f71c7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{255301}
+      \field{eprintclass}{cond-mat.mtrl-sci}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{12}
+      \field{number}{25}
+      \field{title}{{Quantum Phase Transitions of Trilayer Excitons in Atomically Thin Heterostructures}}
+      \field{volume}{125}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{255301}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.125.255301
+      \endverb
+      \verb{eprint}
+      \verb 2004.06687
+      \endverb
+      \keyw{Condensed Matter - Materials Science,Condensed Matter - Strongly Correlated Electrons,Quantum Physics}
+    \endentry
+    \entry{2010arXiv1010.0631S}{article}{}
+      \name{author}{11}{}{%
+        {{hash=9710344382035fe6effdcc2e915e86ae}{%
+           family={{Szameit}},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=24f63d9e354bb0162a73b6d1ab6735c3}{%
+           family={{Shechtman}},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=30db79840d1da1b7011f9ccf45635a0d}{%
+           family={{Dana}},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d60aa676e14b0196e56d33699b6d0932}{%
+           family={{Steiner}},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ec87d6c4ab6cc2479536790c1d49ffd4}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ac2dfbd5b8dcb967007ca32f733b9d40}{%
+           family={{Cohen-Hyams}},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=959ac4d286a15f6be1ed5c40a965bdcf}{%
+           family={{Bullkich}},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=190b7f73a80f7c9c2d25f7d085c5e6d4}{%
+           family={{Cohen}},
+           familyi={C\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=5ff4278634f3dc13645a76f4bc0e5712}{%
+           family={{Eldar}},
+           familyi={E\bibinitperiod},
+           given={Y.\bibnamedelimi C.},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=95e48bd35baf22d8134f0f463977a141}{%
+           family={{Shoham}},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{328928971959595eabf5706a07dc0e9c}
+      \strng{fullhash}{f906004c62508508304530d0d2560453}
+      \strng{bibnamehash}{328928971959595eabf5706a07dc0e9c}
+      \strng{authorbibnamehash}{328928971959595eabf5706a07dc0e9c}
+      \strng{authornamehash}{328928971959595eabf5706a07dc0e9c}
+      \strng{authorfullhash}{f906004c62508508304530d0d2560453}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:1010.0631}
+      \field{eprintclass}{physics.optics}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{10}
+      \field{title}{{Far-Field Microscopy of Sparse Subwavelength Objects}}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{arXiv:1010.0631}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.1010.0631
+      \endverb
+      \verb{eprint}
+      \verb 1010.0631
+      \endverb
+      \keyw{Physics - Optics}
+    \endentry
+    \entry{2012NatMa..11..455S}{article}{}
+      \name{author}{11}{}{%
+        {{hash=9710344382035fe6effdcc2e915e86ae}{%
+           family={{Szameit}},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=24f63d9e354bb0162a73b6d1ab6735c3}{%
+           family={{Shechtman}},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d75bb5256393a87f7230f7c3eeddbcb6}{%
+           family={{Osherovich}},
+           familyi={O\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=959ac4d286a15f6be1ed5c40a965bdcf}{%
+           family={{Bullkich}},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=15ad54b0a6955e803cecb43a984f31fb}{%
+           family={{Sidorenko}},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=30db79840d1da1b7011f9ccf45635a0d}{%
+           family={{Dana}},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d60aa676e14b0196e56d33699b6d0932}{%
+           family={{Steiner}},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=751aea63a3a757f382949c01eb9cd9be}{%
+           family={{Kley}},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi B.},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ec87d6c4ab6cc2479536790c1d49ffd4}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ac2dfbd5b8dcb967007ca32f733b9d40}{%
+           family={{Cohen-Hyams}},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{328928971959595eabf5706a07dc0e9c}
+      \strng{fullhash}{4d46fd43872746710a0b9e5930f5ec85}
+      \strng{bibnamehash}{328928971959595eabf5706a07dc0e9c}
+      \strng{authorbibnamehash}{328928971959595eabf5706a07dc0e9c}
+      \strng{authornamehash}{328928971959595eabf5706a07dc0e9c}
+      \strng{authorfullhash}{4d46fd43872746710a0b9e5930f5ec85}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{physics.optics}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Nature Materials}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Sparsity-based single-shot subwavelength coherent diffractive imaging}}
+      \field{volume}{11}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{455\bibrangedash 459}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nmat3289
+      \endverb
+      \verb{eprint}
+      \verb 1112.4707
+      \endverb
+      \keyw{Physics - Optics}
+    \endentry
+    \entry{2020PNAS..11720462V}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c595e3b596e003f9e00397e62a8292a7}{%
+           family={{Volkov}},
+           familyi={V\bibinitperiod},
+           given={Pavel\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6ce6bd72922e80334f4e1ccfd5a28ff8}{%
+           family={{Pixley}},
+           familyi={P\bibinitperiod},
+           given={Jedediah\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc77aed6d3bee5374e875c8ded3b34e4}
+      \strng{fullhash}{dc77aed6d3bee5374e875c8ded3b34e4}
+      \strng{bibnamehash}{dc77aed6d3bee5374e875c8ded3b34e4}
+      \strng{authorbibnamehash}{dc77aed6d3bee5374e875c8ded3b34e4}
+      \strng{authornamehash}{dc77aed6d3bee5374e875c8ded3b34e4}
+      \strng{authorfullhash}{dc77aed6d3bee5374e875c8ded3b34e4}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Proceedings of the National Academy of Science}
+      \field{month}{8}
+      \field{number}{34}
+      \field{title}{{Magnon Bose-Einstein condensation and superconductivity in a frustrated Kondo lattice}}
+      \field{volume}{117}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{20462\bibrangedash 20467}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.2000501117
+      \endverb
+      \verb{eprint}
+      \verb 1910.03589
+      \endverb
+      \keyw{Kondo lattice,frustrated magnetism,strongly correlated electrons,Condensed Matter - Strongly Correlated Electrons,Condensed Matter - Superconductivity}
+    \endentry
+    \entry{2023NanoL..23.6102Z}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f4bcbd6f122050b08b133a450102f23f}{%
+           family={{Zalic}},
+           familyi={Z\bibinitperiod},
+           given={Ayelet},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a856342313a0ed8d5c7c0315c53a88f}{%
+           family={{Taniguchi}},
+           familyi={T\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ec13cda2cbfddcda8775a94455efdce0}{%
+           family={{Watanabe}},
+           familyi={W\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e3d3aaf7e6ae47e28b7dc08f4592a1e5}{%
+           family={{Steinberg}},
+           familyi={S\bibinitperiod},
+           given={Hadar},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6fd1eb1c8356c869a13ba6fd13fefc15}
+      \strng{fullhash}{6ea24553d3f76ae6bba599ff03ae8992}
+      \strng{bibnamehash}{6fd1eb1c8356c869a13ba6fd13fefc15}
+      \strng{authorbibnamehash}{6fd1eb1c8356c869a13ba6fd13fefc15}
+      \strng{authornamehash}{6fd1eb1c8356c869a13ba6fd13fefc15}
+      \strng{authorfullhash}{6ea24553d3f76ae6bba599ff03ae8992}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.supr-con}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Nano Letters}
+      \field{month}{7}
+      \field{number}{13}
+      \field{title}{{High Magnetic Field Stability in a Planar Graphene-NbSe2 SQUID}}
+      \field{volume}{23}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{6102\bibrangedash 6108}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/acs.nanolett.3c01552
+      \endverb
+      \verb{eprint}
+      \verb 2211.01020
+      \endverb
+      \keyw{Condensed Matter - Superconductivity,Condensed Matter - Mesoscale and Nanoscale Physics,Condensed Matter - Materials Science}
+    \endentry
+    \entry{2022PNAS..11905845Z}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cec5c57030ee9356140860c16a0196b6}{%
+           family={{Zimmerman}},
+           familyi={Z\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8f56a3a87c74791174ccc82c3e1b137b}{%
+           family={{Rapaport}},
+           familyi={R\bibinitperiod},
+           given={Ronen},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d960fce0c8d5ca020bf0a53e0fb2e1bf}{%
+           family={{Gazit}},
+           familyi={G\bibinitperiod},
+           given={Snir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{035395e7c7531347699602907742e0e9}
+      \strng{fullhash}{035395e7c7531347699602907742e0e9}
+      \strng{bibnamehash}{035395e7c7531347699602907742e0e9}
+      \strng{authorbibnamehash}{035395e7c7531347699602907742e0e9}
+      \strng{authornamehash}{035395e7c7531347699602907742e0e9}
+      \strng{authorfullhash}{035395e7c7531347699602907742e0e9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{e2205845119}
+      \field{eprintclass}{cond-mat.mes-hall}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Proceedings of the National Academy of Science}
+      \field{month}{7}
+      \field{number}{30}
+      \field{title}{{Collective interlayer pairing and pair superfluidity in vertically stacked layers of dipolar excitons}}
+      \field{volume}{119}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{e2205845119}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.2205845119
+      \endverb
+      \verb{eprint}
+      \verb 2202.11754
+      \endverb
+      \keyw{Condensed Matter - Mesoscale and Nanoscale Physics,Condensed Matter - Quantum Gases,Condensed Matter - Strongly Correlated Electrons}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
