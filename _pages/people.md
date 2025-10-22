@@ -29,7 +29,7 @@ author_profile: true
 
     <img src="/images/omer.jpg" alt="drawing" width="200"/>
 
-Alumni
+## Alumni
 
 1. M.Sc. Aviv Barnea (2025)
 
