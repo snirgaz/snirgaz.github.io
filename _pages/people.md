@@ -21,11 +21,17 @@ author_profile: true
 
      <img src="/images/elyasaf.png" alt="drawing" width="200"/>
 
-4. M.Sc. Ayush De (ayush.de@mail.huji.ac.il )
+4. Ph.D. Ayush De (ayush.de@mail.huji.ac.il )
 
     <img src="/images/ayush.jpeg" alt="drawing" width="200"/>
 
-4. M.Sc. Aviv Barnea (aviv.barnea606@gmail.com)
+5. Ph.D. Omer Paz (omer.paz2@mail.huji.ac.il )
 
-    <img src="/images/Aviv.jpg" alt="drawing" width="200"/>
+    <img src="/images/omer.jpg" alt="drawing" width="200"/>
+
+Alumni
+
+1. M.Sc. Aviv Barnea (2025)
+
+2. Postdoc Umberto Borla (umberto.borla@mpq.mpg.de ) => postdoc @ LMU
 
